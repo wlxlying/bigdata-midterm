@@ -48,36 +48,12 @@ def fetch(url, dest, headers=None, retries=3, chunk=512 * 1024, quiet=False):
     return None
 
 
-GDELT_DAYS = [
-    # 2014 (policy baseline year) and 2024 (latest full year)
-    "20140115", "20140415", "20140715", "20141015",
-    "20240115", "20240415", "20240715", "20241015",
-]
-
 def main():
     tasks = []
 
-    # ---- CEPII BACI (goods, HS6) ----
-    baci = RAW / "BACI_HS22_V202601.zip"
-    if not (baci.exists() and baci.stat().st_size > 200 * 2**20):
-        if baci.exists():
-            baci.unlink()
-        tasks.append(("BACI", "https://www.cepii.fr/DATA_DOWNLOAD/baci/data/BACI_HS22_V202601.zip", baci, None))
-
-    # ---- CEPII Gravity ----
-    grav = RAW / "Gravity_csv_V202211.zip"
-    if not (grav.exists() and grav.stat().st_size > 150 * 2**20):
-        if grav.exists():
-            grav.unlink()
-        tasks.append(("Gravity", "https://www.cepii.fr/DATA_DOWNLOAD/gravity/data/Gravity_csv_V202211.zip", grav, None))
-
-    # ---- World Bank WDI full bulk ----
-    wdi = RAW / "WDI_CSV.zip"
-    if not (wdi.exists() and wdi.stat().st_size > 200 * 2**20):
-        if wdi.exists():
-            wdi.unlink()
-        tasks.append(("WDI", "https://databank.worldbank.org/data/download/WDI_CSV.zip", wdi,
-                      {"Referer": "https://databank.worldbank.org/"}))
+    # BACI and the full WDI zip are not part of this project.
+    # Trade, STRI and the WDI extracts already used are copied below when a local store exists.
+    # GDELT legislative windows are downloaded by fetch_gdelt.py, not by the eight-day sample.
 
     # ---- WTO / UNCTAD / OECD (copy from existing local store) ----
     src = Path(r"d:/HuaweiMoveData/Users/wlx/Desktop") / "\u6570\u636e\u9a71\u52a8" / "\u6570\u636e\u4e0e\u6570\u636e\u8bf4\u660e"
@@ -98,14 +74,8 @@ def main():
             shutil.copy2(s, d)
             print("copied", d.name, round(d.stat().st_size / 2**20, 1), "MB")
 
-    # ---- GDELT event files (8 sample days) ----
-    for day in GDELT_DAYS:
-        dest = RAW / "gdelt" / f"{day}.export.CSV.zip"
-        dest.parent.mkdir(parents=True, exist_ok=True)
-        if not dest.exists():
-            tasks.append(("GDELT " + day, f"https://data.gdeltproject.org/events/{day}.export.CSV.zip", dest, None))
-
     print("\n=== %d download tasks ===" % len(tasks))
+    print("GDELT legislative windows: python crawler/fetch_gdelt.py")
     for name, url, dest, hdr in tasks:
         print("\n---", name)
         fetch(url, dest, headers=hdr)
