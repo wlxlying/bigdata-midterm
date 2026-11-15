@@ -1,0 +1,12 @@
+{
+  "country": "US",
+  "id": "eo_14105",
+  "label": "Executive Order 14105 (Federal Register)",
+  "url": "https://www.federalregister.gov/documents/2023/08/11/2023-17449/address-software-vulnerabilities-and-threats-investments-by-the-peoples-republic-of-china-in-certain-national-security-sensitive-technologies-products-and-services",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 84968,
+  "validated_as_law_text": true,
+  "sha256": "55fef3ddce519ee4bfbcc72f6c1d4c75eb18ede8680add7774e0938f69409d9f",
+  "access_time_utc": "2026-11-10T09:43:16.342410+00:00"
+}

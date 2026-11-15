@@ -1,0 +1,8 @@
+{
+  "country": "IN",
+  "id": "rb_i_payment",
+  "label": "RBI - Storage of Payment System Data (2018)",
+  "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11244&Mode=0",
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "access_time_utc": "2026-11-10T09:36:57.225254+00:00"
+}

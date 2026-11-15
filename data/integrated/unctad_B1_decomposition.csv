@@ -1,0 +1,4 @@
+﻿margin,dep,n,b_stri,se,t,p
+extensive margin (partner count),ln_n,348,-0.0075,0.3774,-0.02,0.984
+intensive margin (dispersion),ln_cv_term,348,0.1977,0.3349,0.59,0.555
+total ln HHI,ln_hhi,348,0.2052,0.3374,0.61,0.543

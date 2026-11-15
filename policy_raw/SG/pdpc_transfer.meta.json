@@ -1,0 +1,8 @@
+{
+  "country": "SG",
+  "id": "pdpc_transfer",
+  "label": "PDPC - Advisory Guidelines on Cross-Border Data Transfers",
+  "url": "https://www.pdpc.gov.sg/guidelines-and-consultation/2020/03/advisory-guidelines-on-key-concepts-in-the-pdpa",
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "access_time_utc": "2026-11-10T09:37:07.066492+00:00"
+}

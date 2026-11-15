@@ -1,0 +1,11 @@
+{
+  "country": "US",
+  "id": "cloud_act",
+  "label": "CLOUD Act - 18 U.S.C. 2713",
+  "url": "https://www.congress.gov/115/plaws/publ141/PLAW-115publ141.pdf",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 2467783,
+  "sha256": "5be3db32c24a32e0cb2ccafa739bb7aa44cd8418961a22b47cc5366844c96ea5",
+  "access_time_utc": "2026-11-10T09:36:34.366065+00:00"
+}

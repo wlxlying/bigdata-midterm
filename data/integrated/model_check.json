@@ -1,0 +1,444 @@
+{
+  "fe": [
+    {
+      "label": "FE hhi, cluster country",
+      "n": 348,
+      "b": 771.9088,
+      "se": 1039.5757,
+      "p": 0.4578,
+      "r2": 0.8652
+    },
+    {
+      "label": "FE hhi + controls",
+      "n": 348,
+      "b": 747.8403,
+      "se": 950.1829,
+      "p": 0.4313,
+      "r2": 0.8792
+    },
+    {
+      "label": "FE ln_hhi",
+      "n": 348,
+      "b": 0.2391,
+      "se": 0.3426,
+      "p": 0.4852,
+      "r2": 0.8951
+    },
+    {
+      "label": "FE ln_n",
+      "n": 348,
+      "b": -0.1599,
+      "se": 0.5188,
+      "p": 0.7579,
+      "r2": 0.9067
+    },
+    {
+      "label": "FE ln_cv_term",
+      "n": 348,
+      "b": 0.0792,
+      "se": 0.4249,
+      "p": 0.8521,
+      "r2": 0.8706
+    }
+  ],
+  "long_grid": [
+    {
+      "label": "ln_hhi ~ stri",
+      "n": 348,
+      "b": 0.6544,
+      "se": 0.2703,
+      "p": 0.016,
+      "r2": 0.0167,
+      "delta_13": null
+    },
+    {
+      "label": "ln_hhi ~ stri + ln_gdp + inet + trade_open",
+      "n": 348,
+      "b": 0.9389,
+      "se": 0.2827,
+      "p": 0.001,
+      "r2": 0.062,
+      "delta_13": -8.042
+    },
+    {
+      "label": "ln_hhi ~ stri + ln_size",
+      "n": 348,
+      "b": 0.2299,
+      "se": 0.2658,
+      "p": 0.3877,
+      "r2": 0.1149,
+      "delta_13": 1.544
+    },
+    {
+      "label": "ln_hhi ~ stri + ln_gdp + inet + trade_open + C(year)",
+      "n": 348,
+      "b": 1.1961,
+      "se": 0.2896,
+      "p": 0.0,
+      "r2": 0.1062,
+      "delta_13": -6.205
+    },
+    {
+      "label": "ln_hhi ~ stri + C(year)",
+      "n": 348,
+      "b": 0.8668,
+      "se": 0.2738,
+      "p": 0.0017,
+      "r2": 0.0673,
+      "delta_13": -10.234
+    },
+    {
+      "label": "ln_hhi ~ stri + reg_index_w",
+      "n": 348,
+      "b": 1.2164,
+      "se": 0.2999,
+      "p": 0.0001,
+      "r2": 0.0599,
+      "delta_13": -5.209
+    },
+    {
+      "label": "ln_hhi ~ stri + ln_size + ln_gdp + inet + trade_open + C(year)",
+      "n": 348,
+      "b": 0.6788,
+      "se": 0.2507,
+      "p": 0.0071,
+      "r2": 0.3543,
+      "delta_13": -88.111
+    }
+  ],
+  "fractional": {
+    "b": 0.4703,
+    "se": 1.0512,
+    "p": 0.6546,
+    "ame": 0.07063,
+    "n": 348
+  },
+  "batis_info": {
+    "columns_head": [
+      "iso2",
+      "year",
+      "total_musd",
+      "n_partners",
+      "cv",
+      "hhi",
+      "cr1",
+      "cr5",
+      "ln_hhi",
+      "ln_n",
+      "ln_cv_term",
+      "iso3"
+    ],
+    "rows": 2178
+  },
+  "sizes": {
+    ".gitkeep": 0,
+    "BATIS_codes.xlsx": 39775,
+    "gdelt/": 183947835,
+    "OECD-WTO_BATIS_BPM6_bulk.csv": 2979268422,
+    "oecd_digital_stri.csv": 332549,
+    "oecd_dstri_regulatory.xlsx": 1674303,
+    "UNCTAD_TradeServCatByPartner.csv": 2323095041,
+    "WDI_country_panel_2014_2025.csv": 449294,
+    "WDI_indicators_2014_2025_long.csv": 3436493,
+    "WTO_DDS_bulk.csv": 7467436,
+    "WTO_services_annual.csv": 2341172952,
+    "WTO_services_annual.zip": 84585339,
+    "_raw_row_counts.json": 324
+  },
+  "policy_bytes": {
+    "CH/fadp.html": 77151,
+    "CH/fadp.meta.json": 386,
+    "CH/fadp_fedlex.html": 77151,
+    "CH/fadp_fedlex.meta.json": 429,
+    "CH/fdpic_transfer.meta.json": 340,
+    "CN/assessment_2022.html": 49739,
+    "CN/assessment_2022.meta.json": 446,
+    "CN/cac_assessment.html": 49739,
+    "CN/cac_assessment.meta.json": 408,
+    "CN/cac_provisions_2024.html": 56095,
+    "CN/cac_provisions_2024.meta.json": 425,
+    "CN/dsl.html": 87476,
+    "CN/dsl.meta.json": 393,
+    "CN/dsl_cac.html": 32994,
+    "CN/dsl_cac.meta.json": 417,
+    "CN/pipl.html": 87476,
+    "CN/pipl.meta.json": 412,
+    "CN/pipl_cac.html": 60221,
+    "CN/pipl_cac.meta.json": 436,
+    "CN/provisions_2024.html": 56095,
+    "CN/provisions_2024.meta.json": 448,
+    "DE/bdsg.html": 193568,
+    "DE/bdsg.meta.json": 395,
+    "DE/bdsg_en.html": 193568,
+    "DE/bdsg_en.meta.json": 437,
+    "EU/gdpr_celex.html": 2035,
+    "EU/gdpr_celex.meta.json": 412,
+    "EU/gdpr_ch5_art44_49.html": 2035,
+    "EU/gdpr_ch5_art44_49.meta.json": 428,
+    "EU/gdpr_full.meta.json": 461,
+    "EU/gdpr_full.xhtml": 806864,
+    "FR/cnil_transfer.meta.json": 294,
+    "FR/gdpr_applies.meta.json": 448,
+    "FR/gdpr_applies.xhtml": 806864,
+    "FR/loi_78_17.meta.json": 287,
+    "GB/dpa2018_contents.meta.json": 387,
+    "GB/dpa2018_p5.meta.json": 418,
+    "GB/dpa2018_part2.meta.json": 412,
+    "GB/dpa2018_part2_full.html": 423618,
+    "GB/dpa2018_part2_full.meta.json": 475,
+    "GB/dpa2018_part2_full.txt": 88728,
+    "GB/dpa2018_part5.meta.json": 397,
+    "GB/dpa2018_part7.meta.json": 380,
+    "GB/dpa2018_s119a.meta.json": 409,
+    "GB/dpa2018_s17_21.meta.json": 482,
+    "GB/dpa2018_schedule21.meta.json": 407,
+    "GB/dpa2018_xml.meta.json": 418,
+    "GB/duaa_2025.meta.json": 380,
+    "GB/duaa_2025_xml.meta.json": 421,
+    "GB/eurlex_gdpr_full.html": 806864,
+    "GB/eurlex_gdpr_full.meta.json": 514,
+    "GB/govuk_dataprotection_api.json": 20183,
+    "GB/govuk_dataprotection_api.meta.json": 373,
+    "GB/govuk_data_protection.html": 81200,
+    "GB/govuk_data_protection.meta.json": 473,
+    "GB/govuk_dpa2018_collection.html": 72747,
+    "GB/govuk_dpa2018_collection.meta.json": 519,
+    "GB/govuk_dpa2018_content_api.json": 14383,
+    "GB/govuk_dpa2018_content_api.meta.json": 422,
+    "GB/govuk_uk_gdpr_guide.meta.json": 306,
+    "GB/ico_transfer.meta.json": 322,
+    "GB/uk_gdpr.meta.json": 403,
+    "GB/uk_gdpr_ch5.meta.json": 491,
+    "GB/uk_gdpr_note.meta.json": 447,
+    "IE/gdpr_applies.meta.json": 448,
+    "IE/gdpr_applies.xhtml": 806864,
+    "IN/dpdp_2023.meta.json": 415,
+    "IN/dpdp_2023.pdf": 182082,
+    "IN/dpdp_2023.txt": 65217,
+    "IN/rb_i_payment.meta.json": 299,
+    "NL/gdpr_applies.meta.json": 448,
+    "NL/gdpr_applies.xhtml": 806864,
+    "NL/uavg.meta.json": 352,
+    "SG/pdpa.html": 268507,
+    "SG/pdpa.meta.json": 368,
+    "SG/pdpa_sso.html": 268507,
+    "SG/pdpa_sso.meta.json": 428,
+    "SG/pdpc_transfer.meta.json": 353,
+    "US/cloud_act.meta.json": 379,
+    "US/cloud_act.pdf": 2467783,
+    "US/eo_14105.html": 84968,
+    "US/eo_14105.meta.json": 598
+  },
+  "km": [
+    {
+      "km": 0,
+      "n": 82,
+      "hhi": 812.0,
+      "stri": 0.204,
+      "total_median": 610.0
+    },
+    {
+      "km": 1,
+      "n": 21,
+      "hhi": 3545.3,
+      "stri": 0.198,
+      "total_median": 12.9
+    }
+  ],
+  "outliers": [
+    {
+      "iso2": "KP",
+      "hhi": 8582.8,
+      "stri": 0.083,
+      "total": 0.0
+    },
+    {
+      "iso2": "ZW",
+      "hhi": 6463.1,
+      "stri": 0.507,
+      "total": 0.2
+    },
+    {
+      "iso2": "ZM",
+      "hhi": 6410.4,
+      "stri": 0.387,
+      "total": 3.7
+    },
+    {
+      "iso2": "ET",
+      "hhi": 5749.9,
+      "stri": 0.428,
+      "total": 0.3
+    },
+    {
+      "iso2": "AL",
+      "hhi": 5442.7,
+      "stri": 0.061,
+      "total": 2.5
+    },
+    {
+      "iso2": "CA",
+      "hhi": 4840.7,
+      "stri": 0.04,
+      "total": 15795.3
+    },
+    {
+      "iso2": "NI",
+      "hhi": 4306.7,
+      "stri": 0.184,
+      "total": 6.3
+    },
+    {
+      "iso2": "AO",
+      "hhi": 3536.1,
+      "stri": 0.375,
+      "total": 16.7
+    },
+    {
+      "iso2": "CR",
+      "hhi": 3405.0,
+      "stri": 0.042,
+      "total": 1143.0
+    },
+    {
+      "iso2": "PK",
+      "hhi": 2460.5,
+      "stri": 0.308,
+      "total": 722.2
+    },
+    {
+      "iso2": "TN",
+      "hhi": 2372.2,
+      "stri": 0.488,
+      "total": 3.6
+    },
+    {
+      "iso2": "KZ",
+      "hhi": 698.4,
+      "stri": 0.607,
+      "total": 477.0
+    },
+    {
+      "iso2": "LA",
+      "hhi": 684.1,
+      "stri": 0.559,
+      "total": 47.1
+    }
+  ],
+  "gradient_p": [
+    {
+      "cat": "SH3",
+      "n": 9,
+      "r": -0.139,
+      "p": 0.7214
+    },
+    {
+      "cat": "SJ",
+      "n": 33,
+      "r": -0.105,
+      "p": 0.5609
+    },
+    {
+      "cat": "SC",
+      "n": 34,
+      "r": 0.006,
+      "p": 0.9731
+    },
+    {
+      "cat": "SD",
+      "n": 34,
+      "r": 0.115,
+      "p": 0.5172
+    },
+    {
+      "cat": "SI1",
+      "n": 31,
+      "r": 0.127,
+      "p": 0.496
+    },
+    {
+      "cat": "SI2",
+      "n": 31,
+      "r": 0.154,
+      "p": 0.4082
+    },
+    {
+      "cat": "SH",
+      "n": 33,
+      "r": 0.287,
+      "p": 0.1054
+    },
+    {
+      "cat": "SI3",
+      "n": 28,
+      "r": 0.346,
+      "p": 0.0713
+    },
+    {
+      "cat": "SG",
+      "n": 35,
+      "r": 0.583,
+      "p": 0.0002
+    }
+  ],
+  "placebo_p": [
+    {
+      "item": "SI2",
+      "n": 105,
+      "r": 0.06,
+      "p": 0.5432
+    },
+    {
+      "item": "SC",
+      "n": 105,
+      "r": -0.111,
+      "p": 0.2596
+    },
+    {
+      "item": "SD",
+      "n": 105,
+      "r": -0.259,
+      "p": 0.0076
+    }
+  ],
+  "top24": [
+    {
+      "exporter": "DE",
+      "total": 38535.867091,
+      "hhi": 460.5111334583655,
+      "cr5": 38.17754410523172,
+      "n_partners": 199.0
+    },
+    {
+      "exporter": "GB",
+      "total": 40430.293781,
+      "hhi": 690.1940917512306,
+      "cr5": 49.05219127870874,
+      "n_partners": 197.0
+    },
+    {
+      "exporter": "IE",
+      "total": 163809.715117,
+      "hhi": 407.4736138529087,
+      "cr5": 35.74370385369382,
+      "n_partners": 199.0
+    },
+    {
+      "exporter": "IN",
+      "total": 71024.67249999999,
+      "hhi": 894.6229874234728,
+      "cr5": 47.97770810981212,
+      "n_partners": 199.0
+    },
+    {
+      "exporter": "US",
+      "total": 88289.392183,
+      "hhi": 480.7110765069604,
+      "cr5": 40.71159375012774,
+      "n_partners": 199.0
+    }
+  ],
+  "n_countries_fe": 36,
+  "year_min": 2014,
+  "year_max": 2024
+}

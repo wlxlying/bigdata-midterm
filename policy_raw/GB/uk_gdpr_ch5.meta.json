@@ -1,0 +1,12 @@
+{
+  "country": "GB",
+  "id": "uk_gdpr_ch5",
+  "label": "UK GDPR Chapter V equivalent - transfers (via DPA 2018 Part 2 Ch 5)",
+  "url": "https://www.legislation.gov.uk/ukpga/2018/12/part/2/chapter/5",
+  "status": 202,
+  "bytes": 2020,
+  "validated_as_law_text": false,
+  "sha256": "496c1347fbd796de18499686958049f0b34161485c26fc1c4f312e458f386e5d",
+  "access_time_utc": "2026-11-12T08:28:09.896385+00:00",
+  "access_method": "direct fetch with AWS WAF token from browser session"
+}

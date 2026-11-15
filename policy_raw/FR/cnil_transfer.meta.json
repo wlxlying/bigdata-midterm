@@ -1,0 +1,8 @@
+{
+  "country": "FR",
+  "id": "cnil_transfer",
+  "label": "CNIL - transfers outside EU guidance",
+  "url": "https://www.cnil.fr/en/transfers-personal-data-outside-european-union",
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "access_time_utc": "2026-11-10T09:36:55.377277+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "country": "CH",
+  "id": "fdpic_transfer",
+  "label": "FDPIC - data transfer abroad guidance",
+  "url": "https://www.edoeb.admin.ch/edoeb/en/home/data-protection/handel-und-wirtschaft/transborder-data-transmission.html",
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "access_time_utc": "2026-11-10T09:37:23.556085+00:00"
+}

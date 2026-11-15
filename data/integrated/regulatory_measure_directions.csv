@@ -1,0 +1,48 @@
+﻿MeasureID,Measure,Policy_area,Policy_area_code,direction
+200300,Interconnection is mandated (fixed),Infrastructure,DG.1,1
+200400,Interconnection is mandated (mobile),Infrastructure,DG.1,1
+200500,Interconnection prices and conditions are regulated (fixed),Infrastructure,DG.1,1
+200600,Interconnection prices and conditions are regulated (mobile),Infrastructure,DG.1,1
+200700,Interconnection reference offers are made public (fixed),Infrastructure,DG.1,1
+200800,Interconnection reference offers are made public (mobile),Infrastructure,DG.1,1
+200801,Vertical separation is required (fixed),Infrastructure,DG.1,1
+200802,Vertical separation is required (mobile),Infrastructure,DG.1,1
+200900,Memo: Non-discriminatory Internet traffic management is mandated,Infrastructure,DG.1,1
+201000,Memo: There is at least one dominant firm in the market segment considered (fixed),Infrastructure,DG.1,1
+201100,"Memo: There is at least one dominant firm in the market segment considered, mobile termination (mobile)",Infrastructure,DG.1,1
+201200,"Memo: There is at least one dominant firm in the market segment considered, mobile origin",Infrastructure,DG.1,1
+201201,Restrictions on the use of communication services,Infrastructure,DG.1,1
+201800,Memo: Free cross-border transfer of data or application of the accountability principle,Infrastructure,DG.1,-1
+201900,Cross-border transfer of personal data is possible through 'open safeguards',Infrastructure,DG.1,-1
+202000,Cross-border transfer of personal data is possible with 'pre-authorised' safeguards,Infrastructure,DG.1,1
+202001,Cross-border transfer is subject to approval on an ad-hoc or case-by-case basis,Infrastructure,DG.1,1
+202100,Certain data must be stored locally,Infrastructure,DG.1,1
+202200,Cross-border transfer of data is prohibited,Infrastructure,DG.1,1
+202300,Discriminatory conditions for licenses to engage in e-commerce,Electronic transactions,DG.2,1
+202400,Memo: License or authorisation is required to engage in e-commerce,Electronic transactions,DG.2,1
+202500,Online tax registration and declaration is available to non-resident foreign providers,Electronic transactions,DG.2,1
+202600,National contract rule for cross-border transaction deviate from internationally standardised rules,Electronic transactions,DG.2,1
+202700,Laws or regulations explicitly protect confidential information,Electronic transactions,DG.2,1
+202800,Laws or regulations provide electronic signature with the equivalent legal validity with hand-written signature,Electronic transactions,DG.2,-1
+202900,Dispute settlement mechanism exist to resolve disputes arising from cross-border digital trade,Electronic transactions,DG.2,1
+203000,Discriminatory access to payment settlement methods,Payment system,DG.3,1
+203100,National payment security standards deviate from international standards,Payment system,DG.3,1
+203200,Restrictions on internet banking or insurance,Payment system,DG.3,1
+203300,Foreign firms are discriminated against on trademark protection,Intellectual property rights,DG.4,1
+203400,Discriminatory treatment for the protection of copyrights and related rights,Intellectual property rights,DG.4,1
+203600,Memo: Exceptions to copyright protection are limited in accord with international rules,Intellectual property rights,DG.4,1
+203700,Enforcement of intellectual property rights: Judicial or administrative enforcement measures and remedies are available,Intellectual property rights,DG.4,1
+203800,Enforcement of intellectual property rights: Provisional measures are available,Intellectual property rights,DG.4,1
+203900,Enforcement of intellectual property rights: Criminal enforcement proceedings and penalties are available,Intellectual property rights,DG.4,1
+204400,Performance requirements affecting cross-border digital trade ,Other barriers affecting trade in digitally enabled services,DG.5,1
+204500,Limitations on downloading and streaming affecting cross-border digital trade,Other barriers affecting trade in digitally enabled services,DG.5,1
+204300,Restrictions on online advertising,Other barriers affecting trade in digitally enabled services,DG.5,1
+204600,Commercial presence is required in order to provide cross-border services,Other barriers affecting trade in digitally enabled services,DG.5,1
+204800,Local presence is required in order to provide cross-border services,Other barriers affecting trade in digitally enabled services,DG.5,1
+204700,Firms have redress when business practices restrict competition in a given market ,Other barriers affecting trade in digitally enabled services,DG.5,1
+205100,Other restrictions on digitally enabled services,Other barriers affecting trade in digitally enabled services,DG.5,1
+205100,N,Other barriers affecting trade in digitally enabled services,DG.5,1
+201201,Restrictions on the use of communication services  ,Infrastructure,DG.1,1
+202600,National contract rule for cross-border transaction deviate from internationally standardized rules,Electronic transactions,DG.2,1
+203200,Performance requirements affecting cross-border digital trade ,Other barriers affecting trade in digitally enabled services,DG.5,1
+203300,Local presence is required in order to provide cross-border services,Other barriers affecting trade in digitally enabled services,DG.5,1

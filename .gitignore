@@ -1,0 +1,55 @@
+# ---- ԭʼ�����ݣ�������󣬲��ϴ� ----
+data/raw/*
+!data/raw/.gitkeep
+
+# ��ѹ��ĳ����м��ļ�
+*.zip
+*.7z
+*.tar.gz
+data/raw/OECD-WTO_BATIS_BPM6_bulk.csv
+data/raw/WTO_services_annual.csv
+
+# ����ԭ�Ŀ��գ�������Լ 1.5 MB���Ǳ������ݣ����׷�ݣ�
+# �����ų���ȡ����������ע��
+# policy_raw/**/*.html
+# policy_raw/**/*.xhtml
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- �༭����ϵͳ ----
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- ��ʱ�ļ� ----
+~$*
+*.tmp
+*.log
+_*.json
+!data/integrated/*.json
+
+# ---- ���������ͼ�������������ų���----
+visualization/*.pdf
+*.parquet
+
+# ---- ���زݸ� ----
+docs/*_draft*
+*_����.docx

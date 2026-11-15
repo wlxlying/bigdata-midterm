@@ -1,0 +1,6 @@
+﻿policy_area,flip,r_raw,r_adj
+DG.1,True,-0.301,0.301
+DG.2,True,-0.233,0.233
+DG.3,False,0.539,0.539
+DG.4,False,0.328,0.328
+DG.5,False,0.55,0.55

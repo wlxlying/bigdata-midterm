@@ -1,0 +1,12 @@
+{
+  "country": "SG",
+  "id": "pdpa_sso",
+  "label": "Personal Data Protection Act 2012 (Singapore Statutes Online)",
+  "url": "https://sso.agc.gov.sg/Act/PDPA2012",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 268507,
+  "validated_as_law_text": true,
+  "sha256": "d409d0aacd8c013c0a6c0e906a001f5bdeba02d90654e7bf98195221849f3d59",
+  "access_time_utc": "2026-11-10T09:43:25.851271+00:00"
+}

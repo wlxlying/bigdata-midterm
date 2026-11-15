@@ -1,0 +1,11 @@
+{
+  "country": "SG",
+  "id": "pdpa",
+  "label": "Personal Data Protection Act 2012 (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PDPA2012",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 268507,
+  "sha256": "d409d0aacd8c013c0a6c0e906a001f5bdeba02d90654e7bf98195221849f3d59",
+  "access_time_utc": "2026-11-10T09:37:06.767455+00:00"
+}

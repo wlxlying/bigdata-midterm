@@ -1,0 +1,12 @@
+{
+  "country": "GB",
+  "id": "govuk_data_protection",
+  "label": "GOV.UK: Data protection overview",
+  "url": "https://www.gov.uk/data-protection",
+  "status": 200,
+  "bytes": 81200,
+  "validated_as_law_text": true,
+  "sha256": "2342e6ece89d3610ce9f7c7b50fb869c9f4f58dd9ee9ab2efebf54266005565a",
+  "access_time_utc": "2026-11-10T21:43:00.592199+00:00",
+  "note": "legislation.gov.uk returns Cloudflare 202; GOV.UK + EUR-Lex used as accessible official sources"
+}

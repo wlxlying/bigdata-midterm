@@ -1,0 +1,12 @@
+{
+  "country": "GB",
+  "id": "dpa2018_s17_21",
+  "label": "DPA 2018 ss.17-21 restricted transfers",
+  "url": "https://www.legislation.gov.uk/ukpga/2018/12/crossheading/restricted-transfers",
+  "status": 202,
+  "bytes": 2020,
+  "validated_as_law_text": false,
+  "sha256": "f6e1a6ef8362682454bf551b6bee80292d682bdd0f4303c28f8cab776c0745be",
+  "access_time_utc": "2026-11-12T08:27:26.031790+00:00",
+  "access_method": "direct fetch with AWS WAF token from browser session"
+}

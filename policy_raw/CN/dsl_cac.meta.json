@@ -1,0 +1,12 @@
+{
+  "country": "CN",
+  "id": "dsl_cac",
+  "label": "Data Security Law (CAC official)",
+  "url": "http://www.cac.gov.cn/2021-06/11/c_1624994566919140.htm",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32994,
+  "validated_as_law_text": true,
+  "sha256": "8eb14247c4b7fae5f499e5a5bcb5b7d58ad91c9585d819c42d5a3b5bab133f4b",
+  "access_time_utc": "2026-11-10T09:43:20.858026+00:00"
+}

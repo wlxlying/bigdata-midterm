@@ -1,0 +1,8 @@
+{
+  "country": "GB",
+  "id": "govuk_uk_gdpr_guide",
+  "label": "GOV.UK: UK GDPR guidance and resources",
+  "url": "https://www.gov.uk/government/publications/uk-gdpr-guidance-and-resources",
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "access_time_utc": "2026-11-10T21:43:02.462953+00:00"
+}

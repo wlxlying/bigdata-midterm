@@ -1,0 +1,4114 @@
+
+Data Protection Act 2018
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skip to main content
+Skip to navigation
+legislation.gov.uk
+https://www.nationalarchives.gov.uk
+Cymraeg
+Home
+Explore our collections
+Research tools
+Help and guidance
+What's new
+About us
+Search Legislation
+Search Legislation
+Title: 
+(or keywords in the title)
+Year:
+Number:
+Type:
+All UK Legislation (excluding originating from the EU)
+--------------------------------------------
+All Legislation (including originating from EU)
+--------------------------------------------
+All Legislation originating from the EU that is amended by the UK
+--------------------------------------------
+All Primary Legislation
+    UK Public General Acts
+    UK Local Acts
+    UK Private and Personal Acts
+    Acts of the Scottish Parliament
+    Acts of Senedd Cymru
+    Acts of the National Assembly for Wales
+    Measures of the National Assembly for Wales
+    Church Measures
+    Acts of the Northern Ireland Assembly
+    Acts of the Old Scottish Parliament
+    Acts of the English Parliament
+    Acts of the Old Irish Parliament
+    Acts of the Parliament of Great Britain
+    Local Acts of the Parliament of Great Britain
+    Private and Personal Acts of the Parliament of Great Britain
+    Northern Ireland Orders in Council
+    Measures of the Northern Ireland Assembly
+    Acts of the Northern Ireland Parliament
+--------------------------------------------
+All Secondary Legislation
+    UK Statutory Instruments
+    Welsh Statutory Instruments
+    Scottish Statutory Instruments
+    Northern Ireland Statutory Rules
+    Church Instruments
+    UK Ministerial Directions
+    UK Ministerial Orders
+    UK Statutory Rules and Orders
+    Northern Ireland Statutory Rules and Orders
+--------------------------------------------
+All Legislation originating from the EU
+    Regulations originating from the EU
+    Regulations originating from the EU that are amended by the UK
+    Decisions originating from the EU
+    Decisions originating from the EU that are amended by the UK
+    Directives originating from the EU
+    European Union Treaties
+--------------------------------------------
+All Draft Legislation
+    UK Draft Statutory Instruments
+    Scottish Draft Statutory Instruments
+    Northern Ireland Draft Statutory Rules
+--------------------------------------------
+All Impact Assessments
+    UK Impact Assessments
+Search
+Advanced Search
+Data Protection Act 2018
+You are here:
+UK Public General Acts
+2018 c. 12
+PART 2
+Table of Contents
+Content
+Explanatory Notes
+More Resources
+Previous:
+ Part
+Next:
+ Part
+Plain View
+Print Options
+What Version
+Latest available (Revised)
+Original (As enacted)
+Advanced Features
+Show Geographical Extent
+(e.g. 
+E
+ngland, 
+W
+ales, 
+S
+cotland and 
+N
+orthern 
+I
+reland)
+Show Timeline of Changes
+Opening Options
+Open whole Act
+Open Act without Schedules
+Open Schedules only
+More Resources
+Original: King's Printer Version
+Correction Slip - 19/08/2019
+View more
+Changes over time for: PART 2
+Alternative versions:
+23/05/2018
+- Amendment
+25/05/2018
+- Amendment
+31/12/2020
+- Amendment
+25/01/2023
+- Amendment
+19/06/2025
+- Amendment
+20/08/2025
+- Amendment
+05/09/2025
+- Amendment
+05/02/2026
+- Amendment
+31/03/2026
+- Amendment
+19/06/2026
+- Amendment
+30/09/2026
+- Amendment
+Changes to legislation:
+Data Protection Act 2018, PART 2 is up to date with all changes known to be in force on or before 12 November 2026. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations.
+Changes to Legislation
+Revised legislation carried on this site may not be fully up to date. Changes and effects are recorded by our editorial team in lists which can be found in the ‘Changes to Legislation’ area. Where those effects have yet to be applied to the text of the legislation by the editorial team they are also listed alongside the legislation in the affected provisions. Use the ‘more’ link to open the changes and effects relevant to the provision you are viewing.
+ View outstanding changes
+ 
+ 
+Changes and effects yet to be applied to Part 2:
+Sch. 3 
+para. 8(1)(y)
+ added by 
+2022 c. 18 (N.I.)
+ 
+Sch. 3 
+para. 78(3)
+Changes and effects yet to be applied to the whole Act associated Parts and Chapters:
+Whole provisions yet to be inserted into this Act (including any effects on those provisions):
+Sch. 3 
+para. 8(1)(y)
+ added by 
+2022 c. 18 (N.I.)
+ 
+Sch. 3 
+para. 78(3)
+PART 2
+U.K.
+General processing
+CHAPTER 1
+U.K.
+Scope and definitions
+4
+Processing to which this Part applies
+U.K.
+(1)
+This Part is relevant to most processing of personal data.
+&#xD;
+(2)
+[
+F1
+This Part
+]
+—
+&#xD;
+(a)
+applies to the types of processing of personal data to which the 
+[
+F2
+UK GDPR
+]
+ applies by virtue of Article 2 of the 
+[
+F2
+UK GDPR
+]
+, and
+&#xD;
+(b)
+supplements, and must be read with, the 
+[
+F2
+UK GDPR
+]
+.
+&#xD;
+F3
+(3)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+Textual Amendments
+F1
+Words in s. 4(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 5(2)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F2
+Words in s. 4(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 5(2)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F3
+S. 4(3) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 5(3)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I1
+S. 4 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+5
+Definitions
+U.K.
+(1)
+Terms used in 
+F4
+... this Part and in the 
+[
+F5
+UK GDPR
+]
+ have the same meaning in 
+[
+F6
+this Part as
+]
+ they have in the 
+[
+F5
+UK GDPR
+]
+.
+&#xD;
+(2)
+In subsection (1), the reference to a term's meaning in the 
+[
+F7
+UK GDPR
+]
+ is to its meaning in the 
+[
+F7
+UK GDPR
+]
+ read with any provision of 
+[
+F8
+this Part
+]
+ which modifies the term's meaning for the purposes of the 
+[
+F7
+UK GDPR
+]
+.
+&#xD;
+(3)
+Subsection (1) is subject to any provision in 
+[
+F9
+this Part
+]
+ which provides expressly for the term to have a different meaning and to section 204.
+&#xD;
+F10
+(4)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+F10
+(5)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+F10
+(6)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+(7)
+A reference in 
+F11
+... this Part to the processing of personal data is to processing to which 
+[
+F12
+this Part
+]
+ applies.
+&#xD;
+(8)
+Sections 3 and 205 include definitions of other expressions used in this Part.
+&#xD;
+Textual Amendments
+F4
+Words in s. 5(1) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 6(2)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F5
+Words in s. 5(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 6(2)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F6
+Words in s. 5(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 6(2)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F7
+Words in s. 5(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 6(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F8
+Words in s. 5(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 6(3)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F9
+Words in s. 5(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 6(4)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F10
+S. 5(4)(5)(6) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 6(5)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F11
+Words in s. 5(7) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 6(6)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F12
+Words in s. 5(7) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 6(6)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Modifications etc. (not altering text)
+C1
+S. 5: power to amend conferred (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by Regulation (EU) 679/2016, Art. 11A(3) (as inserted by 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+ss. 74(1)
+, 
+142(1)
+(2)(h)
+; 
+S.I. 2025/904
+, 
+reg. 2(c)
+)
+Commencement Information
+I2
+S. 5 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+CHAPTER 2
+U.K.
+[
+F13
+ The UK GDPR
+]
+Textual Amendments
+F13
+Pt. 2 Ch. 2
+ heading substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 7
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Meaning of certain terms used in the 
+[
+F14
+UK GDPR
+]
+ 
+U.K.
+Textual Amendments
+F14
+Words in 
+s. 6 cross-heading
+ substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 8
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+6
+Meaning of “controller”
+U.K.
+(1)
+The definition of “controller” in Article 
+[
+F15
+4(1)(7)
+]
+ of the 
+[
+F16
+UK GDPR
+]
+ has effect subject to—
+&#xD;
+(a)
+subsection (2),
+&#xD;
+(b)
+section 209, and
+&#xD;
+(c)
+section 210.
+&#xD;
+(2)
+For the purposes of the 
+[
+F17
+UK GDPR
+]
+, where personal data is processed only—
+&#xD;
+(a)
+for purposes for which it is required by an enactment to be processed, and
+&#xD;
+(b)
+by means by which it is required by an enactment to be processed,
+&#xD;
+the person on whom the obligation to process the data is imposed by the enactment (or, if different, one of the enactments) is the controller.&#xD;
+Textual Amendments
+F15
+Word in s. 6 substituted (5.2.2026) by 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+ss. 67(2)
+, 
+142(1)
+; 
+S.I. 2026/82
+, 
+reg. 2(a)
+F16
+Words in 
+s. 6(1)
+ substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 9
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F17
+Words in 
+s. 6(2)
+ substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 9
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I3
+S. 6 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+7
+Meaning of “public authority” and “public body”
+U.K.
+(1)
+For the purposes of the 
+[
+F18
+UK GDPR
+]
+, the following (and only the following) are “public authorities” and “public bodies” 
+F19
+...—
+&#xD;
+(a)
+a public authority as defined by the Freedom of Information Act 2000,
+&#xD;
+(b)
+a Scottish public authority as defined by the Freedom of Information (Scotland) Act 2002 (asp 13),
+&#xD;
+[
+F20
+(ba)
+the Advanced Research and Invention Agency,
+]
+ and
+&#xD;
+(c)
+an authority or body specified or described by the Secretary of State in regulations,
+&#xD;
+subject to subsections (2), (3) and (4).&#xD;
+(2)
+An authority or body that falls within subsection (1) is only a “public authority” or “
+public body
+” for the purposes of the 
+[
+F21
+UK GDPR
+]
+ when performing a task carried out in the public interest or in the exercise of official authority vested in it.
+&#xD;
+(3)
+The references in subsection (1)(a) and (b) to public authorities and Scottish public authorities as defined by the Freedom of Information Act 2000 and the Freedom of Information (Scotland) Act 2002 (asp 13) do not include any of the following that fall within those definitions—
+&#xD;
+(a)
+a parish council in England;
+&#xD;
+(b)
+a community council in Wales;
+&#xD;
+(c)
+a community council in Scotland;
+&#xD;
+(d)
+a parish meeting constituted under section 13 of the Local Government Act 1972;
+&#xD;
+(e)
+a community meeting constituted under section 27 of that Act;
+&#xD;
+(f)
+charter trustees constituted—
+&#xD;
+(i)
+under section 246 of that Act,
+&#xD;
+(ii)
+under Part 1 of the Local Government and Public Involvement in Health Act 2007, or
+&#xD;
+(iii)
+by the Charter Trustees Regulations 1996 (S.I. 1996/263).
+&#xD;
+(4)
+The Secretary of State may by regulations provide that a person specified or described in the regulations that is a public authority 
+[
+F22
+described or mentioned in subsection (1)(a), (b) or (ba)
+]
+ is not a “public authority” or “
+public body
+” for the purposes of the 
+[
+F23
+UK GDPR
+]
+.
+&#xD;
+(5)
+Regulations under this section are subject to the affirmative resolution procedure.
+&#xD;
+Textual Amendments
+F18
+Words in s. 7(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 10(2)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F19
+Words in s. 7(1) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 10(2)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F20
+S. 7(1)(ba) inserted (25.1.2023) by 
+Advanced Research and Invention Agency Act 2022 (c. 4)
+, 
+s. 13(1)
+, 
+Sch. 3 para. 14(a)
+; 
+S.I. 2023/58
+, 
+reg. 2
+F21
+Words in s. 7(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 10(3)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F22
+Words in s. 7(4) substituted (25.1.2023) by 
+Advanced Research and Invention Agency Act 2022 (c. 4)
+, 
+s. 13(1)
+, 
+Sch. 3 para. 14(b)
+; 
+S.I. 2023/58
+, 
+reg. 2
+F23
+Words in s. 7(4) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 10(3)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I4
+S. 7 in force at Royal Assent for specified purposes, see 
+s. 212(2)(f)
+I5
+S. 7 in force at 25.5.2018 in so far as not already in force by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+Lawfulness of processing
+U.K.
+8
+Lawfulness of processing: public interest 
+etc
+U.K.
+In Article 6(1) of the 
+[
+F24
+UK GDPR
+]
+ (lawfulness of processing), the reference in point (e) to processing of personal data that is necessary for the performance of a task carried out in the public interest or in the exercise of 
+F25
+... official authority includes processing of personal data that is necessary for—&#xD;
+(a)
+the administration of justice,
+&#xD;
+(b)
+the exercise of a function of either House of Parliament,
+&#xD;
+(c)
+the exercise of a function conferred on a person by an enactment or rule of law,
+&#xD;
+(d)
+the exercise of a function of the Crown, a Minister of the Crown or a government department, or
+&#xD;
+(e)
+an activity that supports or promotes democratic engagement.
+&#xD;
+Textual Amendments
+F24
+Words in s. 8 substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 11
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F25
+Words in s. 8 omitted (5.2.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+ss. 70(7)
+, 
+142(1)
+; 
+S.I. 2026/82
+, 
+reg. 2(c)
+Commencement Information
+I6
+S. 8 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+F26
+9
+Child's consent in relation to information society services
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+Textual Amendments
+F26
+S. 9
+ omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 12
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+[
+F27
+Relevant international law
+U.K.
+Textual Amendments
+F27
+S. 9A and cross-heading
+ inserted (19.6.2025 for specified purposes, 20.8.2025 for specified purposes, 5.2.2026 in so far as not already in force) by 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+ss. 72(7)
+, 
+142(1)
+(2)(h)
+; 
+S.I. 2025/904
+, 
+reg. 2(b)
+; 
+S.I. 2026/82
+, 
+reg. 2(e)
+9A
+Processing in reliance on relevant international law
+U.K.
+(1)
+Processing of personal data meets the requirement in Article 6(3), 8A(3)(e), 9(2)(g) or 10(1) of the UK GDPR for a basis in, or authorisation by, relevant international law only if it meets a condition in Schedule A1.
+&#xD;
+(2)
+A condition in Schedule A1 may be relied on for the purposes of any of those provisions, unless that Schedule provides otherwise.
+&#xD;
+(3)
+The Secretary of State may by regulations amend Schedule A1 by adding, varying or omitting—
+&#xD;
+(a)
+conditions,
+&#xD;
+(b)
+provision about the purposes for which a condition may be relied on, and
+&#xD;
+(c)
+safeguards in connection with processing carried out in reliance on a condition in the Schedule.
+&#xD;
+(4)
+Regulations under this section may only add a condition relating entirely or partly to a treaty ratified by the United Kingdom.
+&#xD;
+(5)
+Regulations under this section are subject to the affirmative resolution procedure.
+&#xD;
+(6)
+In this section, “
+treaty
+” and “
+ratified
+” have the same meaning as in Part 2 of the Constitutional Reform and Governance Act 2010 (see section 25 of that Act).
+]
+&#xD;
+Special categories of personal data
+U.K.
+10
+Special categories of personal data and criminal convictions etc data
+U.K.
+(1)
+Subsections (2) and (3) make provision about the processing of personal data described in Article 9(1) of the 
+[
+F28
+UK GDPR
+]
+ (prohibition on processing of special categories of personal data) in reliance on an exception in one of the following points of Article 9(2)—
+&#xD;
+(a)
+point (b) (employment, social security and social protection);
+&#xD;
+(b)
+point (g) (substantial public interest);
+&#xD;
+(c)
+point (h) (health and social care);
+&#xD;
+(d)
+point (i) (public health);
+&#xD;
+(e)
+point (j) (archiving, research and statistics).
+&#xD;
+(2)
+The processing meets the requirement in point (b), (h), (i) or (j) of Article 9(2) of the 
+[
+F29
+UK GDPR
+]
+ for authorisation by, or a basis in, the law of the United Kingdom or a part of the United Kingdom only if it meets a condition in Part 1 of Schedule 1.
+&#xD;
+(3)
+The processing meets the requirement in point (g) of Article 9(2) of the 
+[
+F30
+UK GDPR
+]
+ for a basis in the law of the United Kingdom or a part of the United Kingdom only if it meets a condition in Part 2 of Schedule 1.
+&#xD;
+(4)
+Subsection (5) makes provision about the processing of personal data relating to criminal convictions and offences or related security measures that is not carried out under the control of official authority.
+&#xD;
+(5)
+The processing meets the requirement in Article 
+[
+F31
+10(1) of the UK GDPR
+]
+ for authorisation by the law of the United Kingdom or a part of the United Kingdom only if it meets a condition in Part 1, 2 or 3 of Schedule 1.
+&#xD;
+(6)
+The Secretary of State may by regulations—
+&#xD;
+(a)
+amend Schedule 1—
+&#xD;
+(i)
+by adding or varying conditions or safeguards, and
+&#xD;
+(ii)
+by omitting conditions or safeguards added by regulations under this section, and
+&#xD;
+(b)
+consequentially amend this section.
+&#xD;
+(7)
+Regulations under this section are subject to the affirmative resolution procedure.
+&#xD;
+Textual Amendments
+F28
+Words in s. 10(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 13(2)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F29
+Words in s. 10(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 13(2)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F30
+Words in s. 10(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 13(2)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F31
+Words in s. 10(5) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 13(3)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I7
+S. 10 in force at Royal Assent for specified purposes, see 
+s. 212(2)(f)
+I8
+S. 10 in force at 25.5.2018 in so far as not already in force by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+11
+Special categories of personal data etc: supplementary
+U.K.
+(1)
+For the purposes of Article 9(2)(h) of the 
+[
+F32
+UK GDPR
+]
+ (processing for health or social care purposes etc), the circumstances in which the processing of personal data is carried out subject to the conditions and safeguards referred to in Article 9(3) of the 
+[
+F32
+UK GDPR
+]
+ (obligation of secrecy) include circumstances in which it is carried out—
+&#xD;
+(a)
+by or under the responsibility of a health professional or a social work professional, or
+&#xD;
+(b)
+by another person who in the circumstances owes a duty of confidentiality under an enactment or rule of law.
+&#xD;
+(2)
+In Article 10 of the 
+[
+F33
+UK GDPR
+]
+ and section 10, references to personal data relating to criminal convictions and offences or related security measures include personal data relating to—
+&#xD;
+(a)
+the alleged commission of offences by the data subject, or
+&#xD;
+(b)
+proceedings for an offence committed or alleged to have been committed by the data subject or the disposal of such proceedings, including sentencing.
+&#xD;
+Textual Amendments
+F32
+Words in s. 11(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 14
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F33
+Words in s. 11(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 14
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I9
+S. 11 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+Rights of the data subject
+U.K.
+12
+Limits on fees that may be charged by controllers
+U.K.
+(1)
+The Secretary of State may by regulations specify limits on the fees that a controller may charge in reliance on—
+&#xD;
+(a)
+Article 12(5) of the 
+[
+F34
+UK GDPR
+]
+ (reasonable fees when responding to manifestly unfounded or excessive requests), or
+&#xD;
+(b)
+Article 15(3) of the 
+[
+F35
+UK GDPR
+]
+ (reasonable fees for provision of further copies).
+&#xD;
+(2)
+The Secretary of State may by regulations—
+&#xD;
+(a)
+require controllers of a description specified in the regulations to produce and publish guidance about the fees that they charge in reliance on those provisions, and
+&#xD;
+(b)
+specify what the guidance must include.
+&#xD;
+(3)
+Regulations under this section are subject to the negative resolution procedure.
+&#xD;
+Textual Amendments
+F34
+Words in s. 12(1)(a) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 15
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F35
+Words in s. 12(1)(b) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 15
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I10
+S. 12 in force at Royal Assent for specified purposes, see 
+s. 212(2)(f)
+I11
+S. 12 in force at 25.5.2018 in so far as not already in force by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+13
+Obligations of credit reference agencies
+U.K.
+(1)
+This section applies where a controller is a credit reference agency (within the meaning of section 145(8) of the Consumer Credit Act 1974).
+&#xD;
+(2)
+The controller's obligations under Article 15(1) to (3) of the 
+[
+F36
+UK GDPR
+]
+ (confirmation of processing, access to data and safeguards for third country transfers) are taken to apply only to personal data relating to the data subject's financial standing, unless the data subject has indicated a contrary intention.
+&#xD;
+(3)
+Where the controller discloses personal data in pursuance of Article 15(1) to (3) of the 
+[
+F37
+UK GDPR
+]
+, the disclosure must be accompanied by a statement informing the data subject of the data subject's rights under section 159 of the Consumer Credit Act 1974 (correction of wrong information).
+&#xD;
+Textual Amendments
+F36
+Words in s. 13(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 16
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F37
+Words in s. 13(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 16
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Modifications etc. (not altering text)
+C2
+S. 13 applied by 
+S.I. 2015/1945
+, 
+reg. 15(1)
+ (as substituted (25.5.2018) by 
+Data Protection Act 2018 (c. 12)
+, 
+s. 212(1)
+, 
+Sch. 19 para. 387(2)
+ (with 
+ss. 117
+, 
+209
+, 
+210
+); 
+S.I. 2018/625
+, 
+reg. 2(1)(g)
+)
+Commencement Information
+I12
+S. 13 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+[
+F38
+13A
+Meaning of “relevant offence” for purpose of right to erasure
+U.K.
+(1)
+The Secretary of State may by regulations amend the table in Article 17(5) of the UK GDPR.
+&#xD;
+(2)
+Regulations under this section are subject to the affirmative resolution procedure.
+]
+&#xD;
+Textual Amendments
+F38
+S. 13A
+ inserted (E.W.) (31.3.2026) by 
+Victims and Prisoners Act 2024 (c. 21)
+, 
+ss. 31(4)
+, 
+81(2)
+ (with 
+s. 32
+); 
+S.I. 2026/317
+, 
+reg. 2
+Modifications etc. (not altering text)
+C3
+S. 13A
+ extended (S. and N.I.) (31.3.2026) by 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 11 para. 32(b)
+; 
+S.I. 2026/317
+, 
+reg. 3
+F39
+14
+Automated decision-making authorised by law: safeguards
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+Textual Amendments
+F39
+S. 14
+ omitted (5.2.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 6 para. 11
+; 
+S.I. 2026/82
+, 
+reg. 2(z8)
+ (with 
+reg. 5
+)
+ 
+[
+F40
+Exemptions etc
+]
+ 
+U.K.
+Textual Amendments
+F40
+ S. 15 cross-heading substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 18
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+15
+Exemptions etc
+U.K.
+(1)
+Schedules 2, 3 and 4 make provision for exemptions from, and restrictions and adaptations of the application of, rules of the 
+[
+F41
+UK GDPR
+]
+.
+&#xD;
+(2)
+In Schedule 2—
+&#xD;
+(a)
+Part 1 makes provision adapting or restricting the application of rules contained in Articles 13 to 21 and 34 of the 
+[
+F42
+UK GDPR
+]
+ in specified circumstances 
+[
+F43
+(of a kind described in
+]
+ Article 6(3) and Article 23(1) of the 
+[
+F44
+UK GDPR)
+]
+;
+&#xD;
+(b)
+Part 2 makes provision restricting the application of rules contained in Articles 13 to 21 and 34 of the 
+[
+F45
+UK GDPR
+]
+ in specified circumstances 
+[
+F46
+(of a kind described in
+]
+ Article 23(1) of the 
+[
+F47
+UK GDPR)
+]
+;
+&#xD;
+(c)
+Part 3 makes provision restricting the application of Article 15 of the 
+[
+F48
+UK GDPR
+]
+ where this is necessary to protect the rights of others 
+[
+F49
+(of a kind described in
+]
+ Article 23(1) of the 
+[
+F50
+UK GDPR)
+]
+;
+&#xD;
+(d)
+Part 4 makes provision restricting the application of rules contained in Articles 13 to 15 of the 
+[
+F51
+UK GDPR
+]
+ in specified circumstances 
+[
+F52
+(of a kind described in
+]
+ Article 23(1) of the 
+[
+F53
+UK GDPR)
+]
+;
+&#xD;
+(e)
+Part 5 makes provision containing exemptions or derogations from Chapters II, III, IV 
+[
+F54
+and V of the UK GDPR
+]
+ for reasons relating to freedom of expression 
+[
+F55
+(of a kind described in Article 85(2) of the UK GDPR)
+]
+;
+&#xD;
+(f)
+Part 6 makes provision containing derogations from rights contained in Articles 15, 16, 18, 19, 20 and 21 of the 
+[
+F56
+UK GDPR
+]
+ for scientific or historical research purposes, statistical purposes and archiving purposes 
+F57
+....
+&#xD;
+(3)
+Schedule 3 makes provision restricting the application of rules contained in Articles 13 to 21 of the 
+[
+F58
+UK GDPR
+]
+ to health, social work, education and child abuse data 
+[
+F59
+(of a kind described in
+]
+ Article 23(1) of the 
+[
+F60
+UK GDPR)
+]
+.
+&#xD;
+(4)
+Schedule 4 makes provision restricting the application of rules contained in Articles 13 to 21 of the 
+[
+F61
+UK GDPR
+]
+ to information the disclosure of which is prohibited or restricted by an enactment 
+[
+F62
+(of a kind described in
+]
+ Article 23(1) of the 
+[
+F63
+UK GDPR)
+]
+.
+&#xD;
+[
+F64
+(4A)
+In connection with the manual unstructured processing of personal data held by an FOI public authority, see Chapter 3 of this Part (sections 21, 24 and 25).
+]
+&#xD;
+(5)
+In connection with the safeguarding of national security and with defence, see Chapter 3 of this Part 
+[
+F65
+(sections 26 to 28)
+]
+.
+&#xD;
+Textual Amendments
+F41
+Words in s. 15(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(2)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F42
+Words in s. 15(2)(a) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F43
+Words in s. 15(2)(a) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(3)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F44
+Words in s. 15(2)(a) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(3)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F45
+Words in s. 15(2)(b) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(4)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F46
+Words in s. 15(2)(b) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(4)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F47
+Words in s. 15(2)(b) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(4)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F48
+Words in s. 15(2)(c) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(5)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F49
+Words in s. 15(2)(c) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(5)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F50
+Words in s. 15(2)(c) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(5)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F51
+Words in s. 15(2)(d) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(6)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F52
+Words in s. 15(2)(d) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(6)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F53
+Words in s. 15(2)(d) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(6)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F54
+Words in s. 15(2)(e) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(7)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F55
+Words in s. 15(2)(e) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(7)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F56
+Words in s. 15(2)(f) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(8)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F57
+Words in s. 15(2)(f) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(8)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F58
+Words in s. 15(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(9)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F59
+Words in s. 15(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(9)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F60
+Words in s. 15(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(9)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F61
+Words in s. 15(4) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(10)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F62
+Words in s. 15(4) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(10)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F63
+Words in s. 15(4) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(10)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F64
+S. 15(4A) inserted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(11)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F65
+Words in s. 15(5) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 19(12)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I13
+S. 15 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+16
+Power to make further exemptions etc by regulations
+U.K.
+(1)
+The following powers to make provision altering the application of the 
+[
+F66
+UK GDPR
+]
+ may be exercised by way of regulations made by the Secretary of State under this section—
+&#xD;
+(a)
+the power in Article 6(3) 
+F67
+... to lay down a legal basis containing specific provisions to adapt the application of rules of the 
+[
+F68
+UK GDPR
+]
+ where processing is necessary for compliance with a legal obligation, for the performance of a task in the public interest or in the exercise of official authority;
+&#xD;
+(b)
+the power in Article 23(1) to make 
+[
+F69
+provision
+]
+ restricting the scope of the obligations and rights mentioned in that Article where necessary and proportionate to safeguard certain objectives of general public interest;
+&#xD;
+(c)
+the power in Article 85(2) to provide for exemptions or derogations from certain Chapters of the 
+[
+F70
+UK GDPR
+]
+ where necessary to reconcile the protection of personal data with the freedom of expression and information.
+&#xD;
+(2)
+Regulations under this section may—
+&#xD;
+(a)
+amend Schedules 2 to 4—
+&#xD;
+(i)
+by adding or varying provisions, and
+&#xD;
+(ii)
+by omitting provisions added by regulations under this section, 
+F71
+...
+&#xD;
+(b)
+consequentially amend section 15 
+[
+F72
+, and
+&#xD;
+(c)
+consequentially amend the UK GDPR by adding, varying or omitting a reference to section 15, Schedule 2, 3 or 4, this section or regulations under this section.
+]
+&#xD;
+(3)
+Regulations under this section are subject to the affirmative resolution procedure.
+&#xD;
+Textual Amendments
+F66
+Words in s. 16(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 20(2)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F67
+Words in s. 16(1)(a) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 20(2)(b)(i)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F68
+Words in s. 16(1)(a) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 20(2)(b)(ii)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F69
+Word in s. 16(1)(b) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 20(2)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F70
+Words in s. 16(1)(c) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 20(2)(d)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F71
+Word in s. 16(2)(a)(ii) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 20(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F72
+S. 16(2)(c) and word inserted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 20(3)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I14
+S. 16 in force at Royal Assent for specified purposes, see 
+s. 212(2)(f)
+I15
+S. 16 in force at 25.5.2018 in so far as not already in force by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+[
+F73
+Certification
+]
+U.K.
+Textual Amendments
+F73
+S. 17 cross-heading substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 21
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+17
+Accreditation of certification providers
+U.K.
+(1)
+Accreditation of a person as a certification provider is only valid when carried out by—
+&#xD;
+(a)
+the 
+[
+F74
+Commission
+]
+, or
+&#xD;
+(b)
+the 
+[
+F75
+UK national accreditation body
+]
+.
+&#xD;
+(2)
+The 
+[
+F76
+Commission
+]
+ may only accredit a person as a certification provider where the 
+[
+F76
+Commission
+]
+—
+&#xD;
+(a)
+has published a statement that the 
+[
+F76
+Commission
+]
+ will carry out such accreditation, and
+&#xD;
+(b)
+has not published a notice withdrawing that statement.
+&#xD;
+(3)
+The 
+[
+F77
+UK national accreditation body
+]
+ may only accredit a person as a certification provider where the 
+[
+F76
+Commission
+]
+—
+&#xD;
+(a)
+has published a statement that the body may carry out such accreditation, and
+&#xD;
+(b)
+has not published a notice withdrawing that statement.
+&#xD;
+(4)
+The publication of a notice under subsection (2)(b) or (3)(b) does not affect the validity of any accreditation carried out before its publication.
+&#xD;
+(5)
+Schedule 5 makes provision about reviews of, and appeals from, a decision relating to accreditation of a person as a certification provider.
+&#xD;
+(6)
+The 
+[
+F78
+UK national accreditation body
+]
+ may charge a reasonable fee in connection with, or incidental to, the carrying out of the body's functions under this section, Schedule 5 and Article 43 of the 
+[
+F79
+UK GDPR
+]
+.
+&#xD;
+(7)
+The 
+[
+F80
+UK national accreditation body
+]
+ must provide the Secretary of State with such information relating to its functions under this section, Schedule 5 and Article 43 of the 
+[
+F81
+UK GDPR
+]
+ as the Secretary of State may reasonably require.
+&#xD;
+(8)
+In this section—
+&#xD;
+“
+certification provider
+” means a person who issues certification for the purposes of Article 42 of the 
+[
+F82
+UK GDPR
+]
+;&#xD;
+“
+the 
+[
+F83
+UK national accreditation body
+]
+” means the 
+[
+F83
+UK national accreditation body
+]
+ for the purposes of Article 4(1) of Regulation 
+(EC) No 765/2008
+ of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation 
+(EEC) No 339/93
+.&#xD;
+Textual Amendments
+F74
+Word in s. 17(1)(a) substituted (30.9.2026) by 
+The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 23(2)
+(3)
+; 
+S.I. 2026/1015
+, 
+reg. 2(c)
+F75
+Words in s. 17(1)(b) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 22(2)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F76
+Word in s. 17(2)(3) substituted (30.9.2026) by 
+The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 23(2)
+(3)
+; 
+S.I. 2026/1015
+, 
+reg. 2(c)
+F77
+Words in s. 17(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 22(3)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F78
+Words in s. 17(6) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 22(4)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F79
+Words in s. 17(6) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 22(4)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F80
+Words in s. 17(7) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 22(5)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F81
+Words in s. 17(7) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 22(5)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F82
+Words in s. 17(8) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 22(6)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F83
+Words in s. 17(8) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 22(6)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I16
+S. 17 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+F84
+...
+U.K.
+Textual Amendments
+F84
+S. 17A and cross-heading omitted (5.2.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 9 para. 12
+ (with 
+Sch. 9 Pt. 2
+); 
+S.I. 2026/82
+, 
+reg. 2(z11)
+F84
+17A
+Transfers based on adequacy regulations
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+F85
+17B
+Transfers based on adequacy regulations: review etc
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+Textual Amendments
+F85
+S. 17B omitted (5.2.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 9 para. 13
+ (with 
+Sch. 9 Pt. 2
+); 
+S.I. 2026/82
+, 
+reg. 2(z11)
+F86
+17C
+Standard data protection clauses
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+Textual Amendments
+F86
+S. 17C omitted (5.2.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 9 para. 14
+ (with 
+Sch. 9 Pt. 2
+); 
+S.I. 2026/82
+, 
+reg. 2(z11)
+F88
+18
+Transfers of personal data to third countries etc 
+[
+F87
+: public interest
+]
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+Textual Amendments
+F87
+Words in s. 18 heading inserted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 24(2)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F88
+S. 18 omitted (5.2.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 9 para. 15
+ (with 
+Sch. 9 Pt. 2
+); 
+S.I. 2026/82
+, 
+reg. 2(z11)
+F89
+...
+U.K.
+Textual Amendments
+F89
+S. 19 and cross-heading omitted (5.2.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+ss. 86(6)
+, 
+142(1)
+; 
+S.I. 2026/82
+, 
+reg. 2(n)
+F89
+19
+Processing for archiving, research and statistical purposes: safeguards
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+Minor definition
+U.K.
+F90
+20
+Meaning of “court”
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+Textual Amendments
+F90
+S. 20
+ omitted (20.8.2025) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 11 para. 15
+; 
+S.I. 2025/904
+, 
+reg. 2(y)
+CHAPTER 3
+U.K.
+[
+F91
+Exemptions for manual unstructured processing and for national security and defence purposes
+]
+Textual Amendments
+F91
+Pt. 2 Ch. 3 heading substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 27
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Modifications etc. (not altering text)
+C4
+Pt. 2 Ch. 3 applied (31.12.2020) by Regulation (EU) No. 625/2017, Art. 143 (as substituted by 
+The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)
+, 
+regs. 1
+, 
+27(3)
+ (with 
+reg. 46
+))
+[
+F92
+Definitions
+]
+U.K.
+Textual Amendments
+F92
+S. 21 cross-heading substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 28
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+21
+[
+F93
+Definitions
+]
+U.K.
+F94
+(1)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+F94
+(2)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+F94
+(3)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+F94
+(4)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+(5)
+In this Chapter, “
+FOI public authority
+” means—
+&#xD;
+(a)
+a public authority as defined in the Freedom of Information Act 2000, 
+F95
+...
+&#xD;
+(b)
+a Scottish public authority as defined in the Freedom of Information (Scotland) Act 2002 (asp 13) 
+[
+F96
+, or
+&#xD;
+(c)
+the Advanced Research and Invention Agency
+]
+. 
+&#xD;
+(6)
+References in this Chapter to personal data “held” by an FOI public authority are to be interpreted—
+&#xD;
+(a)
+in relation to England and Wales and Northern Ireland, in accordance with section 3(2) of the Freedom of Information Act 2000, and
+&#xD;
+(b)
+in relation to Scotland, in accordance with section 3(2), (4) and (5) of the Freedom of Information (Scotland) Act 2002 (asp 13),
+&#xD;
+but such references do not include information held by an intelligence service (as defined in section 82) on behalf of an FOI public authority.&#xD;
+(7)
+But personal data is not to be treated as “held” by an FOI public authority for the purposes of this Chapter, where—
+&#xD;
+(a)
+section 7 of the Freedom of Information Act 2000 prevents Parts 1 to 5 of that Act from applying to the personal data, or
+&#xD;
+(b)
+section 7(1) of the Freedom of Information (Scotland) Act 2002 (asp 13) prevents that Act from applying to the personal data.
+&#xD;
+[
+F97
+(8)
+In relation to the Advanced Research and Invention Agency—
+&#xD;
+(a)
+for the purposes of subsection (6)(a)—
+&#xD;
+(i)
+section 3(2) of the Freedom of Information Act 2000 is to be read as if “public authority” included that Agency, and
+&#xD;
+(ii)
+section 3(2) of the Freedom of Information (Scotland) Act 
+2002 (asp 13)
+ is to be read as if “authority” included that Agency, and
+&#xD;
+(b)
+subsection (7) does not apply.
+]
+&#xD;
+Textual Amendments
+F93
+S. 21 heading substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 29(2)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F94
+S. 21(1)-(4) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 29(3)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F95
+Word in s. 21(5)(a) omitted (25.1.2023) by virtue of 
+Advanced Research and Invention Agency Act 2022 (c. 4)
+, 
+s. 13(1)
+, 
+Sch. 3 para. 15(2)(a)
+; 
+S.I. 2023/58
+, 
+reg. 2
+F96
+S. 21(5)(c) and word inserted (25.1.2023) by 
+Advanced Research and Invention Agency Act 2022 (c. 4)
+, 
+s. 13(1)
+, 
+Sch. 3 para. 15(2)(b)
+; 
+S.I. 2023/58
+, 
+reg. 2
+F97
+S. 21(8) inserted (25.1.2023) by 
+Advanced Research and Invention Agency Act 2022 (c. 4)
+, 
+s. 13(1)
+, 
+Sch. 3 para. 15(3)
+; 
+S.I. 2023/58
+, 
+reg. 2
+Commencement Information
+I17
+S. 21 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+F98
+...
+U.K.
+Textual Amendments
+F98
+S. 22 and cross-heading omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 30
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F98
+22
+Application of the GDPR to processing to which this Chapter applies
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+F99
+23
+Power to make provision in consequence of regulations related to the GDPR
+U.K.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .&#xD;
+Textual Amendments
+F99
+S. 23 omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 31
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Exemptions etc
+U.K.
+24
+Manual unstructured data held by FOI public authorities
+U.K.
+(1)
+The provisions of 
+[
+F100
+the UK GDPR
+]
+ and this Act listed in subsection (2) do not apply to personal data to which 
+[
+F101
+the UK GDPR
+]
+ applies by virtue of 
+[
+F102
+Article 2(1A)
+]
+ (manual unstructured personal data held by FOI public authorities).
+&#xD;
+(2)
+Those provisions are—
+&#xD;
+(a)
+in Chapter II of 
+[
+F103
+the UK GDPR
+]
+ (principles)—
+&#xD;
+(i)
+Article 5(1)(a) to (c), (e) and (f) (principles relating to processing, other than the accuracy principle),
+&#xD;
+(ii)
+Article 6 (lawfulness),
+&#xD;
+(iii)
+Article 7 (conditions for consent),
+&#xD;
+(iv)
+Article 8(1) and (2) (child's consent),
+&#xD;
+(v)
+Article 9 (processing of special categories of personal data),
+&#xD;
+(vi)
+Article 10 (data relating to criminal convictions etc), and
+&#xD;
+(vii)
+Article 11(2) (processing not requiring identification);
+&#xD;
+(b)
+in Chapter III of 
+[
+F104
+the UK GDPR
+]
+ (rights of the data subject)—
+&#xD;
+(i)
+Article 13(1) to (3) (personal data collected from data subject: information to be provided),
+&#xD;
+(ii)
+Article 14(1) to (4) (personal data collected other than from data subject: information to be provided),
+&#xD;
+(iii)
+Article 20 (right to data portability), and
+&#xD;
+(iv)
+Article 21(1) (objections to processing);
+&#xD;
+(c)
+in Chapter V of 
+[
+F105
+the UK GDPR
+]
+, Articles 
+[
+F106
+44A to 49A
+]
+ (transfers of personal data to third countries or international organisations);
+&#xD;
+F107
+[
+F108
+(ca)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+(cb)
+in Part 5 of this Act, section 119A (standard clauses for transfers to third countries);
+]
+&#xD;
+[
+F109
+(d)
+in Part 7 of this Act, sections 170 and 171 (offences relating to personal data).
+]
+&#xD;
+(see also paragraph 1(2) of Schedule 18).&#xD;
+(3)
+In addition, the provisions of 
+[
+F110
+the UK GDPR
+]
+ listed in subsection (4) do not apply to personal data to which 
+[
+F111
+the UK GDPR
+]
+ applies by virtue of 
+[
+F112
+Article 2(1A)
+]
+ where the personal data relates to appointments, removals, pay, discipline, superannuation or other personnel matters in relation to—
+&#xD;
+(a)
+service in any of the armed forces of the Crown;
+&#xD;
+(b)
+service in any office or employment under the Crown or under any public authority;
+&#xD;
+(c)
+service in any office or employment, or under any contract for services, in respect of which power to take action, or to determine or approve the action taken, in such matters is vested in—
+&#xD;
+(i)
+Her Majesty,
+&#xD;
+(ii)
+a Minister of the Crown,
+&#xD;
+(iii)
+the National Assembly for Wales,
+&#xD;
+(iv)
+the Welsh Ministers,
+&#xD;
+(v)
+a Northern Ireland Minister (within the meaning of the Freedom of Information Act 2000), or
+&#xD;
+(vi)
+an FOI public authority.
+&#xD;
+(4)
+Those provisions are—
+&#xD;
+(a)
+the remaining provisions of Chapters II and III (principles and rights of the data subject);
+&#xD;
+(b)
+Chapter IV (controller and processor);
+&#xD;
+[
+F113
+(ba)
+Chapter 8A (safeguards for processing for research, archiving or statistical purposes);
+]
+&#xD;
+(c)
+Chapter IX (specific processing situations).
+&#xD;
+(5)
+A controller is not obliged to comply with Article 15(1) to (3) of 
+[
+F114
+the UK GDPR
+]
+ (right of access by the data subject) in relation to personal data to which 
+[
+F115
+the UK GDPR
+]
+ applies by virtue of 
+[
+F116
+Article 2(1A)
+]
+ if—
+&#xD;
+(a)
+the request under 
+[
+F117
+Article 15
+]
+ does not contain a description of the personal data, or
+&#xD;
+(b)
+the controller estimates that the cost of complying with the request so far as relating to the personal data would exceed the appropriate maximum.
+&#xD;
+(6)
+Subsection (5)(b) does not remove the controller's obligation to confirm whether or not personal data concerning the data subject is being processed unless the estimated cost of complying with that obligation alone in relation to the personal data would exceed the appropriate maximum.
+&#xD;
+(7)
+An estimate for the purposes of this section must be made in accordance with regulations under section 12(5) of the Freedom of Information Act 2000.
+&#xD;
+(8)
+In subsections (5) and (6), “
+the appropriate maximum
+” means the maximum amount specified by the Secretary of State by regulations.
+&#xD;
+(9)
+Regulations under subsection (8) are subject to the negative resolution procedure.
+&#xD;
+Textual Amendments
+F100
+Words in s. 24(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(2)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F101
+Words in s. 24(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(2)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F102
+Words in s. 24(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(2)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F103
+Words in s. 24(2)(a) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F104
+Words in s. 24(2)(b) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F105
+Words in s. 24(2)(c) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F106
+Words in s. 24(2)(c) substituted (5.2.2026) by 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 9 para. 16(a)
+ (with 
+Sch. 9 Pt. 2
+); 
+S.I. 2026/82
+, 
+reg. 2(z11)
+F107
+S. 24(2)(ca) omitted (5.2.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 9 para. 16(b)
+ (with 
+Sch. 9 Pt. 2
+); 
+S.I. 2026/82
+, 
+reg. 2(z11)
+F108
+S. 24(2)(ca)(cb) inserted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(3)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F109
+S. 24(2)(d) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(3)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F110
+Words in s. 24(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(4)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F111
+Words in s. 24(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(4)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F112
+Words in s. 24(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(4)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F113
+S. 24(4)(ba) inserted (5.2.2026) by 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+ss. 87(2)(a)
+, 
+142(1)
+; 
+S.I. 2026/82
+, 
+reg. 2(o)
+F114
+Words in s. 24(5) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(5)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F115
+Words in s. 24(5) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(5)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F116
+Words in s. 24(5) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(5)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F117
+Words in s. 24(5)(a) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 32(5)(d)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I18
+S. 24 in force at Royal Assent for specified purposes, see 
+s. 212(2)(f)
+I19
+S. 24 in force at 25.5.2018 in so far as not already in force by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+25
+Manual unstructured data used in longstanding historical research
+U.K.
+(1)
+The provisions of 
+[
+F118
+the UK GDPR
+]
+ listed in subsection (2) do not apply to personal data to which 
+[
+F119
+the UK GDPR
+]
+ applies by virtue of 
+[
+F120
+Article 2(1A)
+]
+ (manual unstructured personal data held by FOI public authorities) at any time when—
+&#xD;
+(a)
+the personal data—
+&#xD;
+(i)
+is subject to processing which was already underway immediately before 24 October 1998, and
+&#xD;
+(ii)
+is processed only for the purposes of historical research, and
+&#xD;
+(b)
+the processing is not carried out—
+&#xD;
+(i)
+for the purposes of measures or decisions with respect to a particular data subject, or
+&#xD;
+(ii)
+in a way that causes, or is likely to cause, substantial damage or substantial distress to a data subject.
+&#xD;
+(2)
+Those provisions are—
+&#xD;
+(a)
+in Chapter II 
+F121
+...(principles), Article 5(1)(d) (the accuracy principle), and
+&#xD;
+(b)
+in Chapter III 
+F122
+... (rights of the data subject)—
+&#xD;
+(i)
+Article 16 (right to rectification), and
+&#xD;
+(ii)
+Article 17(1) and (2) (right to erasure).
+&#xD;
+(3)
+The exemptions in this section apply in addition to the exemptions in section 24.
+&#xD;
+Textual Amendments
+F118
+Words in s. 25(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 33(2)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F119
+Words in s. 25(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 33(2)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F120
+Words in s. 25(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 33(2)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F121
+Words in s. 25(2)(a) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 33(3)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F122
+Words in s. 25(2)(b) omitted (31.12.2020) by virtue of 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 33(3)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I20
+S. 25 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+26
+National security and defence exemption
+U.K.
+(1)
+A provision of 
+[
+F123
+the UK GDPR
+]
+ or this Act mentioned in subsection (2) does not apply to personal data to which 
+[
+F124
+the UK GDPR
+]
+ applies if exemption from the provision is required for—
+&#xD;
+(a)
+the purpose of safeguarding national security, or
+&#xD;
+(b)
+defence purposes.
+&#xD;
+(2)
+The provisions are—
+&#xD;
+(a)
+Chapter II of 
+[
+F125
+the UK GDPR
+]
+ (principles) except for—
+&#xD;
+(i)
+Article 5(1)(a) (lawful, fair and transparent processing), so far as it requires processing of personal data to be lawful;
+&#xD;
+(ii)
+Article 6 (lawfulness of processing);
+&#xD;
+(iii)
+Article 9 (processing of special categories of personal data);
+&#xD;
+(b)
+Chapter III of 
+[
+F126
+the UK GDPR
+]
+ (rights of data subjects);
+&#xD;
+(c)
+in Chapter IV of 
+[
+F127
+the UK GDPR
+]
+—
+&#xD;
+(i)
+Article 33 (notification of personal data breach to the 
+[
+F128
+Commission
+]
+);
+&#xD;
+(ii)
+Article 34 (communication of personal data breach to the data subject);
+&#xD;
+(d)
+Chapter V of 
+[
+F129
+the UK GDPR
+]
+ (transfers of personal data to third countries or international organisations);
+&#xD;
+(e)
+in Chapter VI of 
+[
+F130
+the UK GDPR
+]
+—
+&#xD;
+(i)
+Article 57(1)(a) and (h) ( 
+[
+F131
+Commission's
+]
+ duties to monitor and enforce 
+[
+F130
+the UK GDPR
+]
+ and to conduct investigations);
+&#xD;
+(ii)
+Article 58 (investigative, corrective, authorisation and advisory powers of 
+[
+F131
+Commission
+]
+);
+&#xD;
+(f)
+Chapter VIII of 
+[
+F132
+the UK GDPR
+]
+ (remedies, liabilities and penalties) except for—
+&#xD;
+F133
+(ai)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+(i)
+Article 83 (general conditions for imposing administrative fines);
+&#xD;
+(ii)
+Article 84 (penalties);
+&#xD;
+F134
+(fa)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+&#xD;
+(g)
+in Part 5 of this Act—
+&#xD;
+(i)
+in section 115 (general functions of the 
+[
+F135
+Commission
+]
+), subsections (3) and (8);
+&#xD;
+(ii)
+in section 115, subsection (9), so far as it relates to Article 58(2)(i) of 
+[
+F136
+the UK GDPR
+]
+;
+&#xD;
+(iii)
+section 119 (inspection in accordance with international obligations);
+&#xD;
+[
+F137
+(iv)
+section 119A (standard clauses for transfers to third countries);
+]
+&#xD;
+(h)
+in Part 6 of this Act—
+&#xD;
+(i)
+sections 142 to 154 and Schedule 15 ( 
+[
+F138
+Commission
+]
+ notices and powers of entry and inspection);
+&#xD;
+(ii)
+sections 170 to 173 (offences relating to personal data);
+&#xD;
+(i)
+in Part 7 of this Act, section 187 (representation of data subjects).
+&#xD;
+Textual Amendments
+F123
+Words in s. 26(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(2)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F124
+Words in s. 26(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(2)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F125
+Words in s. 26(2)(a) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F126
+Words in s. 26(2)(b) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F127
+Words in s. 26(2)(c) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F128
+Word in s. 26(2)(c)(i) substituted (30.9.2026) by 
+The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 23(2)
+(3)
+; 
+S.I. 2026/1015
+, 
+reg. 2(c)
+F129
+Words in s. 26(2)(d) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F130
+Words in s. 26(2)(e) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(3)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F131
+Word in s. 26(2)(e)(i)(ii) substituted (30.9.2026) by 
+The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 23(2)
+(3)
+; 
+S.I. 2026/1015
+, 
+reg. 2(c)
+F132
+Words in s. 26(2)(f) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(3)(c)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F133
+S. 26(2)(f)(ai) omitted (19.6.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 10 para. 9
+; 
+S.I. 2026/82
+, 
+reg. 3(b)
+ (with 
+reg. 7
+)
+F134
+S. 26(2)(fa) omitted (5.2.2026) by virtue of 
+Data (Use and Access) Act 2025 (c. 18)
+, 
+s. 142(1)
+, 
+Sch. 9 para. 17
+ (with 
+Sch. 9 Pt. 2
+); 
+S.I. 2026/82
+, 
+reg. 2(z11)
+F135
+Word in s. 26(2)(g)(i) substituted (30.9.2026) by 
+The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 23(2)
+(3)
+; 
+S.I. 2026/1015
+, 
+reg. 2(c)
+F136
+Words in s. 26(2)(g)(ii) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(3)(e)(i)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F137
+S. 26(2)(g)(iv) inserted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 34(3)(e)(ii)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F138
+Word in s. 26(2)(h)(i) substituted (30.9.2026) by 
+The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 23(2)
+(3)
+; 
+S.I. 2026/1015
+, 
+reg. 2(c)
+Commencement Information
+I21
+S. 26 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+27
+National security: certificate
+U.K.
+(1)
+Subject to subsection (3), a certificate signed by a Minister of the Crown certifying that exemption from all or any of the provisions listed in section 26(2) is, or at any time was, required in relation to any personal data for the purpose of safeguarding national security is conclusive evidence of that fact.
+&#xD;
+(2)
+A certificate under subsection (1)—
+&#xD;
+(a)
+may identify the personal data to which it applies by means of a general description, and
+&#xD;
+(b)
+may be expressed to have prospective effect.
+&#xD;
+(3)
+Any person directly affected by a certificate under subsection (1) may appeal to the Tribunal against the certificate.
+&#xD;
+(4)
+If, on an appeal under subsection (3), the Tribunal finds that, applying the principles applied by a court on an application for judicial review, the Minister did not have reasonable grounds for issuing a certificate, the Tribunal may—
+&#xD;
+(a)
+allow the appeal, and
+&#xD;
+(b)
+quash the certificate.
+&#xD;
+(5)
+Where, in any proceedings under or by virtue of 
+[
+F139
+the UK GDPR
+]
+ or this Act, it is claimed by a controller that a certificate under subsection (1) which identifies the personal data to which it applies by means of a general description applies to any personal data, another party to the proceedings may appeal to the Tribunal on the ground that the certificate does not apply to the personal data in question.
+&#xD;
+(6)
+But, subject to any determination under subsection (7), the certificate is to be conclusively presumed so to apply.
+&#xD;
+(7)
+On an appeal under subsection (5), the Tribunal may determine that the certificate does not so apply.
+&#xD;
+(8)
+A document purporting to be a certificate under subsection (1) is to be—
+&#xD;
+(a)
+received in evidence, and
+&#xD;
+(b)
+deemed to be such a certificate unless the contrary is proved.
+&#xD;
+(9)
+A document which purports to be certified by or on behalf of a Minister of the Crown as a true copy of a certificate issued by that Minister under subsection (1) is—
+&#xD;
+(a)
+in any legal proceedings, evidence of that certificate;
+&#xD;
+(b)
+in any legal proceedings in Scotland, sufficient evidence of that certificate.
+&#xD;
+(10)
+The power conferred by subsection (1) on a Minister of the Crown is exercisable only by—
+&#xD;
+(a)
+a Minister who is a member of the Cabinet, or
+&#xD;
+(b)
+the Attorney General or the Advocate General for Scotland.
+&#xD;
+Textual Amendments
+F139
+Words in 
+s. 27(5)
+ substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 35
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+Commencement Information
+I22
+S. 27 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+28
+National security and defence: modifications to Articles 9 and 32 of the 
+[
+F140
+UK GDPR
+]
+ 
+U.K.
+(1)
+Article 9(1) of 
+[
+F141
+the UK GDPR
+]
+ (prohibition on processing of special categories of personal data) does not prohibit the processing of personal data to which 
+[
+F142
+the UK GDPR
+]
+ applies to the extent that the processing is carried out—
+&#xD;
+(a)
+for the purpose of safeguarding national security or for defence purposes, and
+&#xD;
+(b)
+with appropriate safeguards for the rights and freedoms of data subjects.
+&#xD;
+(2)
+Article 32 of 
+[
+F143
+the UK GDPR
+]
+ (security of processing) does not apply to a controller or processor to the extent that the controller or the processor (as the case may be) is processing personal data to which 
+[
+F144
+the UK GDPR
+]
+ applies for—
+&#xD;
+(a)
+the purpose of safeguarding national security, or
+&#xD;
+(b)
+defence purposes.
+&#xD;
+(3)
+Where Article 32 of 
+[
+F145
+the UK GDPR
+]
+ does not apply, the controller or the processor must implement security measures appropriate to the risks arising from the processing of the personal data.
+&#xD;
+(4)
+For the purposes of subsection (3), where the processing of personal data is carried out wholly or partly by automated means, the controller or the processor must, following an evaluation of the risks, implement measures designed to—
+&#xD;
+(a)
+prevent unauthorised processing or unauthorised interference with the systems used in connection with the processing,
+&#xD;
+(b)
+ensure that it is possible to establish the precise details of any processing that takes place,
+&#xD;
+(c)
+ensure that any systems used in connection with the processing function properly and may, in the case of interruption, be restored, and
+&#xD;
+(d)
+ensure that stored personal data cannot be corrupted if a system used in connection with the processing malfunctions.
+&#xD;
+[
+F146
+(5)
+The functions conferred on the 
+[
+F147
+Commission
+]
+ in relation to the UK GDPR by Articles 57(1)(a), (d), (e), (h) and (u) and 58(1)(d) and (2)(a) to (d) of the UK GDPR (which are subject to safeguards set out in section 115) include functions in relation to subsection (3).
+]
+&#xD;
+Textual Amendments
+F140
+Words in s. 28 heading substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 36(2)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F141
+Words in s. 28(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 36(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F142
+Words in s. 28(1) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 36(3)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F143
+Words in s. 28(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 36(3)(a)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F144
+Words in s. 28(2) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 36(3)(b)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F145
+Words in s. 28(3) substituted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 36(4)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F146
+S. 28(5) inserted (31.12.2020) by 
+The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 36(5)
+ (with 
+reg. 5
+); 
+2020 c. 1
+, 
+Sch. 5 para. 1(1)
+F147
+Word in s. 28(5) substituted (30.9.2026) by 
+The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)
+, 
+reg. 1(2)
+, 
+Sch. 2 para. 23(2)
+(3)
+; 
+S.I. 2026/1015
+, 
+reg. 2(c)
+Commencement Information
+I23
+S. 28 in force at 25.5.2018 by 
+S.I. 2018/625
+, 
+reg. 2(1)(b)
+Previous:
+ Part
+Next:
+ Part
+Back to top
+Options/Help
+Print Options
+Print
+The Whole
+ Act
+PDF
+ The Whole
+ Act
+Web page
+ The Whole
+ Act
+Print
+This
+ Part
+	
+ only
+ 
+PDF
+ This
+ Part
+	
+ only
+ 
+Web page
+ This
+ Part
+	
+ only
+ 
+You have chosen to open
+ The Whole
+ Act
+The Whole
+ Act you have selected contains over
+ 200 provisions and might take some time to download. You
+ may also experience some issues with your browser, such as an alert box that a script is taking a
+ long time to run.
+ 
+Would you like to continue?
+Continue to open
+You have chosen to open
+ The Whole
+ Act as a PDF
+ 
+The Whole
+ Act you have selected contains over
+ 200 provisions and might take some time to download.
+ 
+Would you like to continue?
+Continue to open
+You have chosen to open
+ The Whole
+ Act
+ without
+ Schedules
+The Whole
+ Act
+ without
+ Schedules you have selected contains over
+ 200 provisions and might take some time to download. You
+ may also experience some issues with your browser, such as an alert box that a script is taking a
+ long time to run.
+ 
+Would you like to continue?
+Continue to open
+You have chosen to open
+ The Whole
+ Act
+ without
+ Schedules as a PDF
+ 
+The Whole
+ Act
+ without
+ Schedules you have selected contains over
+ 200 provisions and might take some time to download.
+ 
+Would you like to continue?
+Continue to open
+You have chosen to open the Whole Act
+The Whole Act you have selected contains over 200 provisions and might take some time to download. You may also experience some issues with your browser, such as an alert box that a script is taking a long time to run.
+Would you like to continue?
+Continue to open
+You have chosen to open the Whole Act without Schedules
+The Whole Act without Schedules you have selected contains over 200 provisions and might take some time to download. You may also experience some issues with your browser, such as an alert box that a script is taking a long time to run.
+Would you like to continue?
+Continue to open
+You have chosen to open Schedules only
+The Schedules you have selected contains over 200 provisions and might take some time to download. You may also experience some issues with your browser, such as an alert box that a script is taking a long time to run.
+Would you like to continue?
+Continue to open
+Legislation is available in different versions:
+Latest Available (revised):
+The latest available updated version of the legislation incorporating changes made by subsequent legislation and applied by our editorial team. Changes we have not yet applied to the text, can be found in the ‘Changes to Legislation’ area.
+Original (As Enacted or Made): 
+The original version of the legislation as it stood when it was enacted or made. No changes have been applied to the text.
+See additional information alongside the content
+Geographical Extent:
+ 
+Indicates the geographical area that this provision applies to. For further information see ‘Frequently Asked Questions’.
+Show Timeline of Changes:
+ 
+See how this legislation has or could change over time. Turning this feature on will show extra navigation options to go to these specific points in time. Return to the latest available version by using the controls above in the What Version box.
+Opening Options
+Different options to open legislation in order to view more content on screen at once
+Explanatory Notes
+Text created by the government department responsible for the subject matter of the Act to explain what the Act sets out to achieve and to make the Act accessible to readers who are not legally qualified. Explanatory Notes were introduced in 1999 and accompany all Public Acts except Appropriation, Consolidated Fund, Finance and Consolidation Acts.
+More Resources
+Access essential accompanying documents and information for this legislation item from this tab. Dependent on the legislation item being viewed this may include:
+the original print PDF of the as enacted version that was used for the print copy
+lists of changes made by and/or affecting this legislation item
+confers power and blanket amendment details
+all formats of all associated documents
+correction slips
+links to related legislation and further information resources
+Timeline of Changes
+This timeline shows the different points in time where a change occurred. The dates will coincide with the earliest date on which the change (e.g an insertion, a repeal or a substitution) that was applied came into force. The first date in the timeline will usually be the earliest date when the provision came into force. In some cases the first date is 01/02/1991 (or for Northern Ireland legislation 01/01/2006). This date is our basedate. No versions before this date are available. For further information see the Editorial Practice Guide and Glossary under Help.
+More Resources
+Use this menu to access essential accompanying documents and information for this legislation item. Dependent on the legislation item being viewed this may include:
+the original print PDF of the as enacted version that was used for the print copy
+correction slips
+Click 'View More' or select 'More Resources' tab for additional information including:
+lists of changes made by and/or affecting this legislation item
+confers power and blanket amendment details
+all formats of all associated documents
+links to related legislation and further information resources
+The data on this page is available in the 
+alternative data formats
+ listed:
+HTML5
+ alternative version
+HTML snippet
+ alternative version
+PDF
+ alternative version
+XML
+ alternative version
+Akoma Ntoso
+ alternative version
+HTML RDFa
+ alternative version
+RDF/XML
+ alternative version
+New site design
+Help
+About us
+Site map
+Accessibility
+Contact us
+Privacy notice
+Cookies
+Fair use policy
+All content is available under the 
+Open Government Licence v3.0
+ except where 
+otherwise stated
+. This site additionally contains content derived from EUR-Lex, reused under the terms of the 
+Commission Decision 2011/833/EU
+ on the reuse of documents from the EU institutions. For more information see the 
+EUR-Lex public statement on re-use
+.
+© 
+Crown and database right
+ 
+ 

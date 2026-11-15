@@ -1,0 +1,12 @@
+{
+  "country": "GB",
+  "id": "eurlex_gdpr_full",
+  "label": "GDPR (EU) 2016/679 full text via EU Publications Office",
+  "url": "https://publications.europa.eu/resource/celex/32016R0679",
+  "status": 200,
+  "bytes": 806864,
+  "validated_as_law_text": true,
+  "sha256": "962539af03738bf552319ff4ce42d69e5f95a576307c4dfed7bf87e81b646b9d",
+  "access_time_utc": "2026-11-10T21:43:08.021993+00:00",
+  "note": "legislation.gov.uk returns Cloudflare 202; GOV.UK + EUR-Lex used as accessible official sources"
+}

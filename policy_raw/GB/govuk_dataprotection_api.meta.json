@@ -1,0 +1,11 @@
+{
+  "country": "GB",
+  "id": "govuk_dataprotection_api",
+  "label": "GOV.UK Content API: data protection hub",
+  "url": "https://www.gov.uk/api/content/data-protection",
+  "status": 200,
+  "bytes": 20183,
+  "validated": true,
+  "sha256": "200faf0e140997fab6231cfa87f8110419876608104b82193f73b872dc25d983",
+  "access_time_utc": "2026-11-10T21:52:04.651242+00:00"
+}

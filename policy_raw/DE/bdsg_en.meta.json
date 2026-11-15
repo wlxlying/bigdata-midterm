@@ -1,0 +1,12 @@
+{
+  "country": "DE",
+  "id": "bdsg_en",
+  "label": "Bundesdatenschutzgesetz - official English translation",
+  "url": "https://www.gesetze-im-internet.de/englisch_bdsg/englisch_bdsg.html",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 193568,
+  "validated_as_law_text": true,
+  "sha256": "de1de0c213296cbd546d1ef9d288f22d9786179bd7fd6726f603acd434104eac",
+  "access_time_utc": "2026-11-10T09:43:19.150770+00:00"
+}

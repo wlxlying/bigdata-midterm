@@ -1,0 +1,12 @@
+{
+  "country": "GB",
+  "id": "dpa2018_part2",
+  "label": "DPA 2018 Part 2 (data protection) - data.xml",
+  "url": "https://www.legislation.gov.uk/ukpga/2018/12/part/2/data.xml",
+  "status": 202,
+  "bytes": 2020,
+  "validated_as_law_text": false,
+  "sha256": "2f8ab428c80336bf86ce3c98c329cd0f09a67939a6dab41c6d6a412685f0d11c",
+  "access_time_utc": "2026-11-10T21:41:31.707504+00:00",
+  "saved": false
+}

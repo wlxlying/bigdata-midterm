@@ -1,0 +1,4 @@
+﻿caliber,n,pearson,spearman,p_value
+BaTiS (balanced),103,0.073,0.06,0.545
+WTO (as reported),30,-0.047,0.139,0.464
+UNCTAD (reconciled),31,0.154,0.172,0.353

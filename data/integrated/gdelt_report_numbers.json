@@ -1,0 +1,637 @@
+{
+  "n_files": 23,
+  "files": [
+    "20230722.export.CSV.zip",
+    "20230723.export.CSV.zip",
+    "20230726.export.CSV.zip",
+    "20230728.export.CSV.zip",
+    "20230729.export.CSV.zip",
+    "20230730.export.CSV.zip",
+    "20230731.export.CSV.zip",
+    "20230802.export.CSV.zip",
+    "20230803.export.CSV.zip",
+    "20230804.export.CSV.zip",
+    "20230805.export.CSV.zip",
+    "20230806.export.CSV.zip",
+    "20230807.export.CSV.zip",
+    "20230808.export.CSV.zip",
+    "20230809.export.CSV.zip",
+    "20230810.export.CSV.zip",
+    "20230811.export.CSV.zip",
+    "20230812.export.CSV.zip",
+    "20230813.export.CSV.zip",
+    "20230814.export.CSV.zip",
+    "20230815.export.CSV.zip",
+    "20230816.export.CSV.zip",
+    "20230817.export.CSV.zip"
+  ],
+  "total_rows": 2822858,
+  "short_rows": 0,
+  "sample": {
+    "ncols": 58,
+    "day": "20220722",
+    "a1": "CAN",
+    "a2": "",
+    "root": "02",
+    "geo": "CA",
+    "url": "https://www.chrisd.ca/2023/07/21/manitoba-first-nation-catholic-church-unmarked-graves-investigation/"
+  },
+  "daily": {
+    "20230722": {
+      "rows": 88384,
+      "in_geo": 4972,
+      "narrow": 0,
+      "mid": 0,
+      "broad": 2,
+      "narrow_tone": null
+    },
+    "20230723": {
+      "rows": 78595,
+      "in_geo": 4773,
+      "narrow": 0,
+      "mid": 0,
+      "broad": 0,
+      "narrow_tone": null
+    },
+    "20230726": {
+      "rows": 156294,
+      "in_geo": 6791,
+      "narrow": 1,
+      "mid": 1,
+      "broad": 2,
+      "narrow_tone": -4.332
+    },
+    "20230728": {
+      "rows": 143434,
+      "in_geo": 6614,
+      "narrow": 0,
+      "mid": 3,
+      "broad": 4,
+      "narrow_tone": null
+    },
+    "20230729": {
+      "rows": 90855,
+      "in_geo": 5426,
+      "narrow": 0,
+      "mid": 0,
+      "broad": 1,
+      "narrow_tone": null
+    },
+    "20230730": {
+      "rows": 80198,
+      "in_geo": 4656,
+      "narrow": 0,
+      "mid": 4,
+      "broad": 4,
+      "narrow_tone": null
+    },
+    "20230731": {
+      "rows": 132804,
+      "in_geo": 6507,
+      "narrow": 0,
+      "mid": 6,
+      "broad": 6,
+      "narrow_tone": null
+    },
+    "20230802": {
+      "rows": 154219,
+      "in_geo": 7326,
+      "narrow": 7,
+      "mid": 17,
+      "broad": 23,
+      "narrow_tone": -0.23
+    },
+    "20230803": {
+      "rows": 151321,
+      "in_geo": 7211,
+      "narrow": 24,
+      "mid": 53,
+      "broad": 55,
+      "narrow_tone": -1.123
+    },
+    "20230804": {
+      "rows": 143004,
+      "in_geo": 7101,
+      "narrow": 10,
+      "mid": 25,
+      "broad": 25,
+      "narrow_tone": -1.12
+    },
+    "20230805": {
+      "rows": 92324,
+      "in_geo": 5447,
+      "narrow": 0,
+      "mid": 1,
+      "broad": 7,
+      "narrow_tone": null
+    },
+    "20230806": {
+      "rows": 81133,
+      "in_geo": 4707,
+      "narrow": 0,
+      "mid": 9,
+      "broad": 9,
+      "narrow_tone": null
+    },
+    "20230807": {
+      "rows": 132310,
+      "in_geo": 6887,
+      "narrow": 34,
+      "mid": 64,
+      "broad": 71,
+      "narrow_tone": -2.163
+    },
+    "20230808": {
+      "rows": 146807,
+      "in_geo": 7027,
+      "narrow": 3,
+      "mid": 17,
+      "broad": 17,
+      "narrow_tone": -0.589
+    },
+    "20230809": {
+      "rows": 147812,
+      "in_geo": 6841,
+      "narrow": 40,
+      "mid": 60,
+      "broad": 61,
+      "narrow_tone": -0.801
+    },
+    "20230810": {
+      "rows": 148175,
+      "in_geo": 5960,
+      "narrow": 6,
+      "mid": 34,
+      "broad": 38,
+      "narrow_tone": -0.017
+    },
+    "20230811": {
+      "rows": 136681,
+      "in_geo": 6432,
+      "narrow": 3,
+      "mid": 7,
+      "broad": 8,
+      "narrow_tone": 0.339
+    },
+    "20230812": {
+      "rows": 85992,
+      "in_geo": 5169,
+      "narrow": 7,
+      "mid": 32,
+      "broad": 32,
+      "narrow_tone": -0.303
+    },
+    "20230813": {
+      "rows": 77730,
+      "in_geo": 4595,
+      "narrow": 5,
+      "mid": 16,
+      "broad": 27,
+      "narrow_tone": 0.018
+    },
+    "20230814": {
+      "rows": 129124,
+      "in_geo": 6328,
+      "narrow": 1,
+      "mid": 5,
+      "broad": 9,
+      "narrow_tone": -1.284
+    },
+    "20230815": {
+      "rows": 138617,
+      "in_geo": 5712,
+      "narrow": 0,
+      "mid": 0,
+      "broad": 0,
+      "narrow_tone": null
+    },
+    "20230816": {
+      "rows": 141249,
+      "in_geo": 6230,
+      "narrow": 0,
+      "mid": 4,
+      "broad": 8,
+      "narrow_tone": null
+    },
+    "20230817": {
+      "rows": 145796,
+      "in_geo": 6710,
+      "narrow": 1,
+      "mid": 9,
+      "broad": 13,
+      "narrow_tone": 1.929
+    }
+  },
+  "narrow_total": 142,
+  "mid_total": 367,
+  "broad_total": 422,
+  "in_geo_total": 139422,
+  "top_domains": [
+    [
+      "economictimes.indiatimes.com",
+      18
+    ],
+    [
+      "www.medianama.com",
+      15
+    ],
+    [
+      "thewire.in",
+      9
+    ],
+    [
+      "indianexpress.com",
+      8
+    ],
+    [
+      "www.thenewsminute.com",
+      8
+    ],
+    [
+      "www.moneycontrol.com",
+      7
+    ],
+    [
+      "timesofindia.indiatimes.com",
+      7
+    ],
+    [
+      "telecom.economictimes.indiatimes.com",
+      6
+    ],
+    [
+      "www.businesstoday.in",
+      6
+    ],
+    [
+      "www.natlawreview.com",
+      6
+    ],
+    [
+      "theindianawaaz.com",
+      5
+    ],
+    [
+      "www.cambodiantimes.com",
+      4
+    ]
+  ],
+  "top_roots": [
+    [
+      "01",
+      41
+    ],
+    [
+      "02",
+      19
+    ],
+    [
+      "04",
+      15
+    ],
+    [
+      "12",
+      12
+    ],
+    [
+      "03",
+      11
+    ],
+    [
+      "08",
+      10
+    ],
+    [
+      "17",
+      7
+    ],
+    [
+      "10",
+      5
+    ]
+  ],
+  "figure": "d:\\HuaweiMoveData\\Users\\wlx\\Desktop\\数据驱动\\midterm_project\\visualization\\fig12_gdelt_dpdp.png",
+  "verify": {
+    "raw_files": [
+      [
+        ".gitkeep",
+        0
+      ],
+      [
+        "BATIS_codes.xlsx",
+        39775
+      ],
+      [
+        "OECD-WTO_BATIS_BPM6_bulk.csv",
+        2979268422
+      ],
+      [
+        "oecd_digital_stri.csv",
+        332549
+      ],
+      [
+        "oecd_dstri_regulatory.xlsx",
+        1674303
+      ],
+      [
+        "UNCTAD_TradeServCatByPartner.csv",
+        2323095041
+      ],
+      [
+        "WDI_country_panel_2014_2025.csv",
+        449294
+      ],
+      [
+        "WDI_indicators_2014_2025_long.csv",
+        3436493
+      ],
+      [
+        "WTO_DDS_bulk.csv",
+        7467436
+      ],
+      [
+        "WTO_services_annual.csv",
+        2341172952
+      ],
+      [
+        "WTO_services_annual.zip",
+        84585339
+      ],
+      [
+        "_raw_row_counts.json",
+        324
+      ],
+      [
+        "gdelt/20230722.export.CSV.zip",
+        5535543
+      ],
+      [
+        "gdelt/20230723.export.CSV.zip",
+        4817028
+      ],
+      [
+        "gdelt/20230726.export.CSV.zip",
+        10292135
+      ],
+      [
+        "gdelt/20230728.export.CSV.zip",
+        9382337
+      ],
+      [
+        "gdelt/20230729.export.CSV.zip",
+        5707721
+      ],
+      [
+        "gdelt/20230730.export.CSV.zip",
+        4872948
+      ],
+      [
+        "gdelt/20230731.export.CSV.zip",
+        8690604
+      ],
+      [
+        "gdelt/20230802.export.CSV.zip",
+        10243583
+      ],
+      [
+        "gdelt/20230803.export.CSV.zip",
+        10078652
+      ],
+      [
+        "gdelt/20230804.export.CSV.zip",
+        9451064
+      ],
+      [
+        "gdelt/20230805.export.CSV.zip",
+        5778189
+      ],
+      [
+        "gdelt/20230806.export.CSV.zip",
+        4954044
+      ],
+      [
+        "gdelt/20230807.export.CSV.zip",
+        8584848
+      ],
+      [
+        "gdelt/20230808.export.CSV.zip",
+        9722911
+      ],
+      [
+        "gdelt/20230809.export.CSV.zip",
+        9824414
+      ],
+      [
+        "gdelt/20230810.export.CSV.zip",
+        9890322
+      ],
+      [
+        "gdelt/20230811.export.CSV.zip",
+        9098848
+      ],
+      [
+        "gdelt/20230812.export.CSV.zip",
+        5454215
+      ],
+      [
+        "gdelt/20230813.export.CSV.zip",
+        4776232
+      ],
+      [
+        "gdelt/20230814.export.CSV.zip",
+        8414542
+      ],
+      [
+        "gdelt/20230815.export.CSV.zip",
+        9200802
+      ],
+      [
+        "gdelt/20230816.export.CSV.zip",
+        9458304
+      ],
+      [
+        "gdelt/20230817.export.CSV.zip",
+        9718549
+      ]
+    ],
+    "raw_bytes": 7925469763,
+    "table_rows": {
+      "_iso3_to_iso2.csv": 126,
+      "analysis_panel_full.csv": 105,
+      "batis_hhi_panel_2014_2024.csv": 2178,
+      "batis_si2_top5_bilateral.csv": 10945,
+      "bootstrap_correlations.csv": 4,
+      "caliber_policy_effect.csv": 3,
+      "category_gradient.csv": 9,
+      "cluster_profile.csv": 4,
+      "cluster_silhouette.csv": 6,
+      "compliance_matrix.csv": 39,
+      "concentration_top5.csv": 55,
+      "crossval_batis_unctad.csv": 31,
+      "gdelt_india_cameo.csv": 16,
+      "gdelt_india_daily.csv": 23,
+      "gdelt_india_domains.csv": 25,
+      "gdelt_india_sqldate.csv": 18,
+      "model_A1_twoway_fe.csv": 4,
+      "model_A2_fractional.csv": 1,
+      "model_B1_decomposition.csv": 3,
+      "model_C2_event_study.csv": 7,
+      "model_C4_oster.csv": 1,
+      "model_D1_silhouette.csv": 6,
+      "model_D2_D4_summary.csv": 1,
+      "model_D_clusters.csv": 103,
+      "panel_regression.csv": 2178,
+      "placebo_service_categories.csv": 3,
+      "policy_coded_clauses.csv": 24,
+      "policy_dimension_scores.csv": 5,
+      "policy_trade_panel_106.csv": 105,
+      "regression_models.csv": 4,
+      "regulatory_direction_calibration.csv": 5,
+      "regulatory_domain_index.csv": 1548,
+      "regulatory_measure_directions.csv": 47,
+      "three_source_agreement.csv": 3,
+      "three_source_hhi.csv": 105,
+      "unctad_A1_twoway_fe.csv": 4,
+      "unctad_A1b_twoway_cluster.csv": 1,
+      "unctad_A2_fractional.csv": 1,
+      "unctad_B1_decomposition.csv": 3,
+      "unctad_B1_variance.csv": 1,
+      "unctad_C2_event_study.csv": 7,
+      "unctad_C2_events.csv": 6,
+      "unctad_C4_oster.csv": 1,
+      "unctad_category_dict.csv": 111,
+      "unctad_hhi_by_category.csv": 667,
+      "unctad_panel_2014_2024.csv": 3812,
+      "unctad_panel_regression.csv": 389,
+      "wto_hhi_2024.csv": 305
+    },
+    "unctad_si2_rows_regfile": 389,
+    "unctad_si2_countries": 41,
+    "unctad_si2_years": [
+      2014,
+      2024
+    ],
+    "unctad_partner_median": 57.0,
+    "unctad_hhi_median": 1467.4938437499457,
+    "identity_max_abs": 1.7763568394002505e-15,
+    "unctad_complete_n": 348,
+    "unctad_complete_countries": 36,
+    "oster_grid": [
+      {
+        "y": "hhi",
+        "b_short": 1700.0438,
+        "r2_short": 0.018,
+        "b_long": 1139.4646,
+        "r2_long": 0.334
+      },
+      {
+        "y": "hhi_000",
+        "b_short": 1.7,
+        "r2_short": 0.018,
+        "b_long": 1.1395,
+        "r2_long": 0.334
+      },
+      {
+        "y": "share",
+        "b_short": 0.17,
+        "r2_short": 0.018,
+        "b_long": 0.1139,
+        "r2_long": 0.334
+      },
+      {
+        "y": "ln_hhi",
+        "b_short": 0.6544,
+        "r2_short": 0.0167,
+        "b_long": 0.5251,
+        "r2_long": 0.3378
+      },
+      {
+        "y": "z",
+        "b_short": 1.5227,
+        "r2_short": 0.018,
+        "b_long": 1.0206,
+        "r2_long": 0.334
+      }
+    ],
+    "var_ext": 0.46724480589559575,
+    "var_int": 0.2139102003997866,
+    "var_tot": 0.1996208102765709,
+    "cov_2": -0.48153419601881164,
+    "panel_n": 105,
+    "reg_vs_stri_n": 104,
+    "reg_vs_stri_pearson": 0.691642573701808,
+    "india_panel": {
+      "hhi14": 1478.6619990404452,
+      "hhi24": 894.6229874234728,
+      "stri2014": 0.1593143939971924,
+      "stri2024": 0.2825730741024017,
+      "total14": 31635.046121,
+      "total24": 71024.67249999999,
+      "cr514": 54.29257972093981,
+      "cr524": 47.97770810981212
+    },
+    "km_profiles": [
+      {
+        "km": 0,
+        "n": 82,
+        "hhi": 812.0,
+        "stri": 0.204,
+        "cr5": 50.7
+      },
+      {
+        "km": 1,
+        "n": 21,
+        "hhi": 3545.3,
+        "stri": 0.198,
+        "cr5": 80.6
+      }
+    ],
+    "dbscan_outliers": [
+      "AL",
+      "AO",
+      "CA",
+      "CR",
+      "ET",
+      "KP",
+      "KZ",
+      "LA",
+      "NI",
+      "PK",
+      "TN",
+      "ZM",
+      "ZW"
+    ],
+    "india_stri_measures": [
+      "CLAS1_10",
+      "CLAS1_6",
+      "CLAS1_7",
+      "CLAS1_8",
+      "CLAS1_9",
+      "STRI"
+    ],
+    "india_stri_series_keys": [
+      "CLAS1_10",
+      "CLAS1_6",
+      "CLAS1_7",
+      "CLAS1_8",
+      "CLAS1_9",
+      "STRI"
+    ],
+    "india_stri_used": "STRI",
+    "india_stri_gap": 2.7e-05,
+    "india_stri_path": {
+      "2014": 0.1593,
+      "2015": 0.199,
+      "2016": 0.2429,
+      "2017": 0.2826,
+      "2018": 0.2826,
+      "2019": 0.2826,
+      "2020": 0.2826,
+      "2021": 0.2826,
+      "2022": 0.2826,
+      "2023": 0.2826,
+      "2024": 0.2826
+    },
+    "india_stri_jumps_005": []
+  }
+}

@@ -1,0 +1,4 @@
+﻿pair,n,pearson,spearman
+batis_hhi vs wto_hhi,30,0.048,0.481
+batis_hhi vs unctad_hhi,31,0.087,0.282
+wto_hhi vs unctad_hhi,30,0.714,0.623

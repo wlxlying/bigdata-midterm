@@ -1,0 +1,8 @@
+{
+  "country": "FR",
+  "id": "loi_78_17",
+  "label": "Loi Informatique et Libertes (consolidated)",
+  "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460",
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "access_time_utc": "2026-11-10T09:36:50.522648+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "country": "GB",
+  "id": "govuk_dpa2018_content_api",
+  "label": "GOV.UK Content API: Data Protection Act 2018 collection",
+  "url": "https://www.gov.uk/api/content/government/collections/data-protection-act-2018",
+  "status": 200,
+  "bytes": 14383,
+  "validated": true,
+  "sha256": "54a632951d562f25f19cf5360ff2a29cb31be7d7f31cbfd6823756823e79f638",
+  "access_time_utc": "2026-11-10T21:52:02.464754+00:00"
+}

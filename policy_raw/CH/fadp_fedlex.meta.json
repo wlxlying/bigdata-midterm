@@ -1,0 +1,12 @@
+{
+  "country": "CH",
+  "id": "fadp_fedlex",
+  "label": "Federal Act on Data Protection (Fedlex, rev. 2023)",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/en",
+  "status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "bytes": 77151,
+  "validated_as_law_text": true,
+  "sha256": "39d0c4d52bf6c1140a7d5b1848e1a625375891aecc22869089e1361f1fd8b3be",
+  "access_time_utc": "2026-11-10T09:43:33.563618+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "country": "GB",
+  "id": "dpa2018_xml",
+  "label": "Data Protection Act 2018 (legislation.gov.uk, XML)",
+  "url": "https://www.legislation.gov.uk/ukpga/2018/12/contents/data.xml",
+  "status": 202,
+  "bytes": 2020,
+  "validated_as_law_text": false,
+  "sha256": "53eda1c71ffd029a07dac68918f776e2285c574bfd6ba6a04d14f771489208e4",
+  "access_time_utc": "2026-11-10T21:41:29.951758+00:00",
+  "saved": false
+}

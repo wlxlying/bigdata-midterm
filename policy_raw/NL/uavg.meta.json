@@ -1,0 +1,8 @@
+{
+  "country": "NL",
+  "id": "uavg",
+  "label": "Uitvoeringswet AVG (UAVG)",
+  "url": "https://wetten.overheid.nl/BWBR0040940/",
+  "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1081)>",
+  "access_time_utc": "2026-11-10T09:36:49.003094+00:00"
+}

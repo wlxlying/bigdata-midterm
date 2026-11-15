@@ -1,0 +1,112 @@
+﻿Category,Category Label
+S,Services
+SPX4,Goods-related services
+SA,Manufacturing services on physical inputs owned by others
+SB,Maintenance and repair services n.i.e.
+SC,Transport
+SC1,Sea transport
+SC11,"Passenger transport, Sea"
+SC12,"Freight transport, Sea"
+SC13,"Other transport, Sea (other than passenger and freight)"
+SC2,Air transport
+SC21,"Passenger transport, Air"
+SC22,"Freight transport, Air"
+SC23,"Other transport, Air  (other than passenger and freight)"
+SC3,Other modes of transport (other than sea and air)
+SC31,"Other modes of transport, Passenger"
+SC32,"Other modes of transport, Freight"
+SC33,"Other modes of transport, Other (other than passenger and freight)"
+SC4,Postal and courier services
+SCA,"Passenger transport, All modes (ALT)"
+SCB,"Freight transport, All modes (ALT)"
+SCC,"Other transport (other than passenger and freight), All modes (ALT)"
+SD,Travel
+SDA,"Travel, Business"
+SDA1,"Travel, Business, Acquisition of goods and services by border, seasonal, short-term workers"
+SDA2,"Travel, Business, Other (other than acquisition of goods and services by border and short-term workers)"
+SDB,"Travel, Personal"
+SDB1,"Travel, Personal, Health-related"
+SDB2,"Travel, Personal, Education-related"
+SDB3,"Travel, Personal, Other (other than health and education)"
+SD1,"Travel, Goods (ALT)"
+SD2,"Travel, Local transport (ALT)"
+SD3,"Travel, Accommodation (ALT)"
+SD4,"Travel, Food-serving (ALT)"
+SD5,"Travel, Other services (ALT)"
+SPX1,Other services
+SE,Construction
+SE1,Construction abroad
+SE2,Construction in the reporting economy
+SF,Insurance and pension services
+SG,Financial services
+SH,Charges for the use of intellectual property n.i.e.
+SI,"Telecommunications, computer, and information services"
+SI1,Telecommunications services
+SI2,Computer services
+SI3,Information services
+SJ,Other business services
+SJ1,Research and development (R&D)
+SJ2,Professional and management consulting services
+SJ21,"Legal, accounting, management consulting, and public relations services"
+SJ22,"Advertising, market research, and public opinion polling services"
+SJ3,"Technical, trade-related, and other business services"
+SJ31,"Architectural, engineering, scientific, and other technical services"
+SJ311,Architectural services
+SJ312,Engineering services
+SJ313,Scientific and other technical services
+SJ32,"Waste treatment and de-pollution, agricultural and mining services"
+SJ33,Operating leasing services
+SJ34,Trade-related services
+SJ35,Other business services n.i.e.
+SK,"Personal, cultural, and recreational services"
+SK1,Audiovisual and related services
+SK2,"Other personal, cultural, and recreational services (other than audiovisual and related)"
+SK21,"Other personal, cultural, and recreational services, Health services"
+SK22,"Other personal, cultural, and recreational services, Education services"
+SK23,"Other personal, cultural, and recreational services, Heritage and recreational services"
+SK24,"Other personal services (other than audiovisual and related, other than health, education and heritage)"
+SL,Government goods and services n.i.e.
+SOX,Memo item: Commercial services
+SC3A,Space transport
+SC3B,Rail transport
+SC3C,Road transport
+SC3D,Inland waterway transport
+SC3E,Pipeline transport
+SC3F,Electricity transmission
+SC3G,Other supporting and auxiliary transport services
+SF1,Direct insurance
+SF11,Life insurance
+SF12,Freight insurance
+SF13,Other direct insurance
+SF2,Reinsurance
+SF3,Auxiliary insurance services
+SF4,Pension and standardized guaranteed services
+SG1,Explicitly charged and other financial services
+SG2,Financial intermediation services indirectly measured (FISIM)
+SH1,Franchises and trademarks licensing fees
+SH2,Licences for the use of outcomes of research and development
+SH3,Licences to reproduce and/or distribute computer software
+SH4,Licences to reproduce and/or distribute audio-visual and related products
+SH41,Licences to reproduce and/or distribute audio-visual products
+SH42,Licences to reproduce and/or distribute other related audio-visual products
+SI21,"Computer services, Software"
+SI22,"Computer services, Other (other than software)"
+SI31,"Information services, News agency"
+SI32,"Information services, Other (other than news agency)"
+SJ11,"R&D, Work undertaken on a systematic basis to increase the stock of knowledge"
+SJ111,"R&D, Provision of customized and non-customized R&D services"
+SJ112,"R&D, Sale of proprietary rights arising from R&D"
+SJ1121,"R&D, Patents"
+SJ1122,"R&D, Copyrights arising from R&D"
+SJ1123,"R&D, Industrial processes and designs"
+SJ1124,"R&D, Other sales of proprietary rights arising from R&D (other than patents, copyrights, industrial processes)"
+SJ12,"R&D, Other than work undertaken on a systematic basis to increase the stock of knowledge"
+SJ211,Legal services
+SJ212,"Accounting, auditing, bookkeeping, and tax consulting services"
+SJ213,Business and management consulting and public relations services
+SJ321,Waste treatment and de-pollution
+SJ322,"Services incidental to agriculture, forestry and fishing"
+SJ323,"Services incidental to mining, and oil and gas extraction"
+SK11,Audio-visual services
+SK12,Artistic related services  (audiovisual and related)
+SN,Services not allocated

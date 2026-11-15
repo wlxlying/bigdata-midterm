@@ -1,0 +1,12 @@
+{
+  "country": "GB",
+  "id": "uk_gdpr_note",
+  "label": "UK GDPR retained from EU GDPR; DPA 2018 see legislation.gov.uk",
+  "url": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
+  "status": 202,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 0,
+  "validated_as_law_text": false,
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "access_time_utc": "2026-11-10T09:44:42.025517+00:00"
+}

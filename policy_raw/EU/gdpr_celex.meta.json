@@ -1,0 +1,11 @@
+{
+  "country": "EU",
+  "id": "gdpr_celex",
+  "label": "GDPR Regulation (EU) 2016/679 - full text",
+  "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679",
+  "status": 202,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 2035,
+  "sha256": "469f85040c391ddfed61139f3f53da690a33a0cc5dacf89683b5219c426bb7bd",
+  "access_time_utc": "2026-11-10T09:36:31.085017+00:00"
+}

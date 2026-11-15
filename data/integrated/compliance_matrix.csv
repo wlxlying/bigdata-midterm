@@ -1,0 +1,40 @@
+﻿clause,requirement,evidence,status
+1,Real verifiable problem; a single site/dataset cannot be the subject,Question links policy to export concentration; requires BaTiS+STRI+regDB+WDI,satisfied
+1,Raw/Cleaned/Integrated three layers with rebuildable pipeline,"data/raw(9 files), data/cleaned(4), data/integrated(9); analysis/01-06 rerunnable",satisfied
+1,Explain per-step data quality and processing logic,report 2.4 cleaning ledger + integrated/data_quality_report.txt,pending
+1,"Entity resolution, time alignment, semantic linkage; justify linkability",report 2.2 three dimensions; integrated/_iso3_to_iso2.csv,satisfied
+1,Large-scale data handling and engineering problems,BaTiS 49.36M rows chunked; UNCTAD 13.32M streamed; WTO 6.85M scanned,satisfied
+1,"Conclusions state reliability, limitations, data bias",report 4.2 five limitations,pending
+2,"At least 3 core questions, each using 2+ sources",Q1/Q2/Q3 span 2/3/2 sources respectively,satisfied
+2,"For each question: sources, linkage, why single source is insufficient",report table 1,satisfied
+3.1,At least 4 independent sources covering 3+ data forms,BaTiS/WTO/UNCTAD statistics + STRI/regDB index + policy text + WDI + GDELT,satisfied
+3.1,Mirror or reprint sites count as a single source,BaTiS vs WTO annual share an origin; disclosed as same-origin different-processing,pending
+3.2,Total raw data at least 2 GB,raw about 7.5 GB: BaTiS 2.84 + WTO 2.23 + UNCTAD 2.22 + others,satisfied
+3.2,Each major source at least 200 MB,"BaTiS 2841 MB, WTO 2233 MB, UNCTAD 2215 MB",satisfied
+3.2,No single source above 80 percent of total,largest is BaTiS at 38 percent of 7517 MB,satisfied
+3.2,Small statistical or policy sources allowed as auxiliary,WDI/STRI/regDB/policy text declared auxiliary in report,pending
+3.3,Source list with provenance fields,data_sources.md records 8 fields per source,satisfied
+4,Submit a multi-source linkage / data lineage diagram,visualization/data_lineage.png,satisfied
+4,At least 2 linkage dimensions,"entity (ISO triple map), time (annual), semantic (R/S/L/G vs STRI)",satisfied
+5.1,Keep three data layers and rebuild path,three-tier directories plus stepwise scripts; README run order,satisfied
+5.1,"Normalise missing, duplicate, outlier, format, encoding, unit, time, entity",report 2.4 itemised with before/after row counts,pending
+5.1,"Explain data loss, filtering, dedup, sample change","cleaning ledger: raw rows to filtered to final, per source",pending
+5.1,Field-level quality rules and at least one metric set,data_quality_report.txt completeness/consistency/uniqueness/validity,pending
+5.2,"Descriptive analysis: scale, span, distribution, missing, outliers",report 3.1 plus data profile table,pending
+5.2,All three questions answered with multi-source evidence,report 3.2 through 3.7,pending
+5.2,"At least one of time, spatial, or network analysis",time: 2014-2024 HHI trajectory; network: partner share shifts,satisfied
+5.2,At least one data mining method,K-means k=4; silhouette score to be added,pending
+5.2,Verify statistical claims; no correlation treated as causation,report 4.2 disclaims causality; regDB direction calibration is auditable,satisfied
+5.3,At least 5 core visuals covering 3+ perspectives,"11 planned: overall 3, cross-source 3, time 2, typology 3",pending
+5.3,Question-style chart titles,all titles phrased as questions,satisfied
+5.3,"Note data range, unit and source on each chart",add footnote block to every figure,pending
+6,AI_USAGE.md with 7 required elements,"7 sections present; needs verbatim prompts, error list, efficiency notes",pending
+7,Suggested project directory layout,crawler/processing/analysis/visualization/docs all present,satisfied
+7,"Scripts, samples, metadata, checksums",MANIFEST.sha256 pending,pending
+8,Project report,"midterm report docx, to be rewritten to 15-20k characters",pending
+8,Presentation deck,"16-slide pptx, to be updated",pending
+8,Code repository or archive,midterm_project/ ; GitHub link pending,pending
+8,Source list and collection log,"data_sources.md, to be rewritten to match reality",pending
+8,"Dataset: samples, metadata, size stats, manifest or checksums",data/ three tiers plus MANIFEST.sha256 pending,pending
+8,Multi-source linkage diagram,visualization/data_lineage.png,satisfied
+8,AI usage material,AI_USAGE.md,pending
