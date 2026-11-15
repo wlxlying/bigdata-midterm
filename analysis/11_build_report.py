@@ -217,11 +217,13 @@ def cover(doc, meta):
     paragraph(doc, meta["kind"], size=18, east="\u9ed1\u4f53", bold=True, align="center", indent=False, after=16)
     paragraph(doc, meta["title"], size=18, east="\u9ed1\u4f53", bold=True, align="center", indent=False, after=6)
     paragraph(doc, meta["subtitle"], size=12, align="center", indent=False, after=18)
-    for line in (
+    lines = [
         "\u59d3\u540d\uff1a" + meta["author"] + "    \u5b66\u53f7\uff1a" + meta["sid"],
-        "\u5c0f\u7ec4\u6210\u5458\uff1a" + meta["group"],
-        "\u65e5\u671f\uff1a" + meta["date"],
-    ):
+    ]
+    if meta.get("group"):
+        lines.append("\u5c0f\u7ec4\u6210\u5458\uff1a" + meta["group"])
+    lines.append("\u65e5\u671f\uff1a" + meta["date"])
+    for line in lines:
         paragraph(doc, line, size=12, align="center", indent=False, after=4)
     doc.add_page_break()
 

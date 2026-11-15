@@ -1,3 +1,4 @@
+# 原始大文件留在本地，不上传。名单见 data/RAW_MANIFEST.txt
 # ---- ԭʼ�����ݣ�������󣬲��ϴ� ----
 data/raw/*
 !data/raw/.gitkeep

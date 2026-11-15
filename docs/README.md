@@ -1,4 +1,3 @@
 # 说明
 
-数据源清单见仓库根目录 data_sources.md。
-图表在 visualization/。报告正文是结论的依据。
+这是魏兰馨的单人作业。问题是数字服务贸易限制更严时，计算机服务出口是否更集中。数据源清单见仓库根目录 `data_sources.md`，图在 `visualization/`，结论以报告正文为准。

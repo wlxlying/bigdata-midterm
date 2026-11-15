@@ -146,7 +146,8 @@ def s01(prs, d):
     add_text(s, 0.7, 2.35, 11.8, 1.7, d["title"], 40, True, WHITE)
     add_text(s, 0.7, 4.25, 11, 0.4, d["sub"], 18, False, RGBColor(0xD6, 0xDE, 0xE8))
     add_text(s, 0.7, 5.7, 8, 0.32, d["who"], 16, False, WHITE)
-    add_text(s, 0.7, 6.08, 10, 0.32, d["group"], 16, False, RGBColor(0xD6, 0xDE, 0xE8))
+    if d.get("group"):
+        add_text(s, 0.7, 6.08, 10, 0.32, d["group"], 16, False, RGBColor(0xD6, 0xDE, 0xE8))
     notes(s, d["notes"])
 
 
