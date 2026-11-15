@@ -88,19 +88,20 @@ for i, (title, sub, fc, ec) in enumerate(low):
     box(3.5 + i * 24.2, 27.2, 22.2, 14.5, title, sub, fc, ec)
     arrow(3.5 + i * 24.2 + 11.1, 50.5, 41.7)
 
-ax.text(50, 20.6, "\u56db\u79cd\u5173\u8054", ha="center", fontsize=10, fontweight="bold")
+ax.text(50, 22.4, "\u4e94\u79cd\u5173\u8054", ha="center", fontsize=10, fontweight="bold")
 notes = [
-    ("#1d4ed8", "\u5b9e\u4f53", "ISO2\u3001ISO3 \u4e0e M49 \u6620\u5c04\u5230\u540c\u4e00\u7ecf\u6d4e\u4f53"),
-    ("#047857", "\u65f6\u95f4", "\u8d38\u6613\u4e0e\u6307\u6570\u7528\u5e74\uff1b\u4e8b\u4ef6\u7528\u65e5\uff0c\u843d\u5728 2023 \u5e74\u5185"),
-    ("#c2410c", "\u8bed\u4e49", "EBOPS \u7684 SI2\uff1b\u76d1\u7ba1\u9886\u57df DG.1\u2013DG.5\uff1b\u6761\u6b3e R/S/L/G"),
-    ("#6d28d9", "\u4e8b\u4ef6", "\u5370\u5ea6 DPDP \u7684\u63d0\u4ea4\u4e0e\u4e24\u9662\u901a\u8fc7\u65e5\uff0c\u5bf9\u63a5 GDELT \u4e13\u540d\u94fe\u63a5"),
+    ("#1d4ed8", "\u5b9e\u4f53", "ISO2\u3001ISO3 \u4e0e M49\n\u6620\u5c04\u5230\u540c\u4e00\u7ecf\u6d4e\u4f53"),
+    ("#047857", "\u65f6\u95f4", "\u8d38\u6613\u4e0e\u6307\u6570\u7528\u5e74\n\u4e8b\u4ef6\u7528\u65e5\uff0c\u843d\u5728 2023 \u5e74"),
+    ("#0369a1", "\u7a7a\u95f4", "ActionGeo \u56fd\u5bb6\u7801\n\u5370\u5ea6\u4e3a IN\uff0c\u672a\u7528\u7ecf\u7eac\u5ea6"),
+    ("#c2410c", "\u8bed\u4e49", "SI2\uff1bDG.1\u2013DG.5\n\u6761\u6b3e R/S/L/G"),
+    ("#6d28d9", "\u4e8b\u4ef6", "DPDP \u63d0\u4ea4\u4e0e\u4e24\u9662\u901a\u8fc7\n\u5bf9\u63a5\u4e13\u540d\u94fe\u63a5"),
 ]
 for i, (color, name, text) in enumerate(notes):
-    x = 4 + (i % 4) * 24
-    ax.add_patch(FancyBboxPatch((x, 8.2), 2.2, 2.2, boxstyle="square,pad=0",
+    x = 1.6 + i * 19.6
+    ax.add_patch(FancyBboxPatch((x, 14.6), 2.0, 2.0, boxstyle="square,pad=0",
                                 facecolor=color, edgecolor=color))
-    ax.text(x + 3.0, 9.3, name, ha="left", va="center", fontsize=8, fontweight="bold", color=color)
-    ax.text(x, 5.6, text, ha="left", va="center", fontsize=6.6, color="#333333")
+    ax.text(x + 2.5, 15.6, name, ha="left", va="center", fontsize=8, fontweight="bold", color=color)
+    ax.text(x, 11.2, text, ha="left", va="center", fontsize=6.4, color="#333333")
 
 ax.text(50, 1.6,
         "\u6570\u636e\u8303\u56f4\uff1a\u8d38\u6613\u4e0e\u6307\u6570 2014\u20132024\uff1bGDELT \u65e5\u6587\u4ef6 2023-07-22 \u81f3 2023-08-17\uff0c\u7f3a 4 \u5929\u3002"
